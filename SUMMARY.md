@@ -1,6 +1,10 @@
 # Summary
 
-* [exportlc.php](README.md)
+* [Preface](README.md)
+* [Comments on online learning](online-learning/README.md)
+* [Comments on Education](education/README.md)
+* [Software](software/README.md)
+* [Comments on knowledge management](knowledge-management/README.md)
 * [b2evolution](b2evolution.md)
 * [Stephen Downes' Buntine Oration](stephen_downes_buntine_oration.md)
 * [Viewing RSS feeds on our home page](viewing_rss_feeds_on_our_home_page.md)

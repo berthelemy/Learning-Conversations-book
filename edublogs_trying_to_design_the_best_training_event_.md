@@ -4,7 +4,7 @@ _Date posted: 18 January 2007_
 
 There is a lot that we in England can learn from our colleagues across the border in Scotland... particularly when it comes to professional development structures for our teachers. Ewan describes in [this post](http://edu.blogs.com/edublogs/2007/01/trying_to_desig.html) the elements that _he_ tries to include within any CPD event that he runs. It includes:
 
-> *   Ensuring the the training backup materials are online;
+> *   Ensuring that the training backup materials are online;
 > *   Ensuring that participants can edit and add to the materials with their anecodotes, and help each other out even though they work in different locations;
 > *   Ensuring participants have his blog and mobile phone number as a safetynet;
 > *   Ensuring that participants could see from the training notes what their next steps might be in terms of training.
