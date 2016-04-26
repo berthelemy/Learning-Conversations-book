@@ -1,0 +1,5 @@
+# Getting feedback from your learners {#getting-feedback-from-your-learners}
+
+_Date posted: 15 July 2008_
+
+Getting feedback from your learners? How do you get rapid feedback from your learners? Perhaps during a face-to-face session. There are systems available where you give each delegate a small radio transmitter with voting buttons. These then go to a computer which puts the votes on screen. But they cost a lot. If you've got an internet connection then you could use a new website called [SMSpoll](http://www.smspoll.net/). This lets people vote via a text message from their mobile phone, via a form on your website, or via mobile internet devices. The results of the vote are shown immediately on a graph. Don't believe me? Try it out on: http://www.smspoll.net/demouk.php What do you think? Would it be useful?

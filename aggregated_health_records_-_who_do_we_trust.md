@@ -1,0 +1,12 @@
+# Aggregated health records - who do we trust? {#aggregated-health-records-who-do-we-trust}
+
+_Date posted: 29 July 2009_
+
+Through recent events I've become acutely aware of how completely disorganised is the National Health Service's methods of keeping patient records. Every GP (general practitioner), hospital, consultant, dentist, physiotherapist, geriatric unit, and occupational therapist keeps their own records. Those records sit in computer systems or on bits of paper. Sometimes the different agencies talk to each other. More often they don't. This leaves patients and their families to try to pull together all these disparate pieces of information into a coherent whole. The NHS is currently going through an immense IT project to try to build a national patient record system. [It sounds like](http://news.bbc.co.uk/1/hi/health/7887438.stm) this is well over budget, over time, and doesn't work. It's by far the biggest project of its kind. Perhaps it's too big to ever work? Instead of a monolithic system, how about adopting a "small pieces, loosely joined" philosophy. And instead of the doctors controlling what goes into your record, let the patient decide who they trust with their data? Each individual could have a data store. It could be on an ID card, on a tag that you keep around your neck, on a USB stick, on a secure website even. Whenever you need to see your doctor, consultant, therapist, insurance company etc you give them access to the records you want them to be able to see. When the consultation or hospital stay is over the notes kept will be sent to your data store. There are numerous political and technical barriers to get over to make this succeed:
+
+*   The data will need to be stored in a consistent, standardised format?
+*   A range of transport mechanisms will need to be agreed and standardised
+*   Data security concerns will need to be addressed through simple, but effective encryption and authentication mechanisms
+*   Software and hardware providers will need to comply with an accreditation or registration process which provides a stamp of approval
+
+None of this is easy. But, once the ground rules are in place and placed in the public domain, it allows a much more distributed development process than is currently happening. We might even get a system that works.

@@ -1,0 +1,5 @@
+# Googlemail, spam and website management {#googlemail-spam-and-website-management}
+
+_Date posted: 1 April 2010_
+
+If you manage websites that contain contact forms of any description, be careful what you set the reply-to address as. I now use Googlemail as my primary email address. So I thought I'd set my blog software to use that as the address it sends emails from. Oh dear... One week later it transpires that Googlemail doesn't like anyone sending emails with an @googlemail.com address apart from itself. I found a whole bunch of comments and direct messages sitting in my Spam folder. Worse still, I manage sites for a couple of organisations. They sit on the same [Hostdime](http://www.hostdime.com/) server as my blog. Somehow it seems that this server has now got itself blacklisted as one that sends spam, so they're now not getting messages sent through their contact forms. Hostdime are looking at it, but I'm not sure what they can do, apart from wait until the message filters through that it's not a spam host. As for me, I've had to change my contact forms so that emails are sent to another address, which I then import into Googlemail. Lesson learned!

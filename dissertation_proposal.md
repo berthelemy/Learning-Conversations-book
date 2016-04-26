@@ -1,0 +1,25 @@
+# Dissertation Proposal {#dissertation-proposal}
+
+_Date posted: 14 February 2007_
+
+I've submitted my proposal to Hull, and it's been approved in principle. I'm now reproducing it here, partly so it's in my knowledge base, and partly to get any feedback from the rest of the community. I'm hoping to be able to tap into the edublogging community to do this research, so any comments or suggestions at this stage would be really useful. **BACKGROUND** I am working as a Learning Solutions Architect for Capita Learning & Development. This has a large research & development role. Many of our clients are involved in wide-ranging and large-scale professional development programmes with learners who are dispersed nationally. The focus and content of these CPD programmes is often driven centrally. A subsequent cascade approach, using geographically or functionally selected groups, then aims to ensure that the learning (ie. knowledge, skills & behaviours) is achieved in the workforce. At its simplest the model adopted may be illustrated as a hub and spoke network. The model is, in reality, far more complex, since the relationships involved are not completely one-directional. Network structures such as this have been widely studied, and their effects and characteristics explored in detail. Authors such as [Laszlo Barabasi](http://www.nd.edu/~alb/) and [John Seely-Brown](http://www.johnseelybrown.com/) have suggested that scale-free networks, in which any node can connect to any other node, are far more effective in facilitating change than the hub & spoke model of network. They extend this to propose that any node not connected to the network reduces its capacity to change, or to effect change. If scale-free networks can be shown to cost-effectively support change across dispersed communities of practice, then the techniques and practices used in developing the networks will provide powerful tools for many large-scale CPD projects. From my experience as a learner about elearning, I know the benefits, and the increased capacity to learn, that I have gained by gradually making connections (through blogs & RSS) with other elearning professionals around the world. This has been entirely learner-driven, yet, by virtue of being part of that community of practice, I have also played a part in disseminating & engaging with ideas promulgated by large organisations. This dissertation aims to examine:
+
+1.  the literature surrounding networks and their use in Continuing Professional Development;
+2.  the network structure formed by people that are blogging about education (the basic demographic research that will inform the next stage);
+3.  how the edublogging network maps to current models of network behaviour (eg. Scale free, random);
+4.  whether certain blogs (whether from individuals or groups) are acting as hubs within the network;
+5.  which hubs are those felt to have an impact on professional development;
+6.  the reasons why people choose to link to the blogs that are the hubs;
+7.  the salient characteristics of those hubs that are seen as having an impact on CPD as compared to other blogs;
+
+Through exploring these factors and characteristics, I hope to be answer the question:
+
+> �What are the salient characteristics of the hubs that support CPD within a blogging network.�
+
+The context used for this investigation will be the network of people blogging about education (edubloggers). The evidence obtained through this research will be of interest to organisations, such as the DfES and its agencies, which wish to encourage self-directed, reflective and collaborative learning (a policy which is itself based on the research about effective CPD, reviewed by CUREE in their [EPPI reviews](http://eppi.ioe.ac.uk/cms/Default.aspx?tabid=159)). **RESEARCH METHODS** The structure of the research is intended to follow the pattern of exploration set out above:
+
+1.  Examine the existing research evidence around the question posed
+2.  Collect the blogrolls from as wide a sample of edubloggers as possible
+3.  Convert the data in the blogrolls to a format suitable for analysis within Indiana University�s Network Workbench
+4.  Prepare a survey which will assess whether the hubs that are found are having an impact on individuals� CPD or not, and the reasons why people link to those particular hubs. This survey will be tested on a small sample before wider use with the blogroll contributors.
+5.  Interview a sample of the bloggers who are seen to have the most impact on CPD and who have the most incoming links. Alongside this I will interview a sample of other edubloggers. The questions asked will aim to ascertain the salient characteristics of the �effective� bloggers (eg. Frequency of posts, the content, the style of writing, the motivation of the writer/podcaster to write)

@@ -1,0 +1,5 @@
+# Who reads this blog? {#who-reads-this-blog}
+
+_Date posted: 30 April 2010_
+
+I know I get a lot of hits on this blog, but, apart from the few people that make comments, I've got no real idea of who reads it. To be honest, that doesn't matter too much, as I write the blog as a personal learning journal. If other people think it's valuable that's just an added benefit. But, it would be nice to know who's out there... I've created a quick survey. It shouldn't take more than 5 minutes to do. I'd be really grateful if you could fill it in. There are no compulsory questions, and I'm not collecting email addresses. Also, I won't use this data for any purpose other than to create some aggregated and anonymised reports. It certainly won't be passed to anyone else. Thanks for taking part. [Open the survey](http://www.surveygizmo.com/s3/287877/Who-reads-this-blog) (opens in a new window)
