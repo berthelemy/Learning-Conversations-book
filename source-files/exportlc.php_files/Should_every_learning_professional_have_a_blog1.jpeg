@@ -1,0 +1,505 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="search" href="http://learningconversations.wikispaces.com/space/opensearch" type="application/opensearchdescription+xml" title="Wikispaces Search (Learning Conversations Wiki)" />
+<script type="text/javascript">
+  
+if (typeof ws === 'undefined') ws = {};
+ws.context = {
+  instance: {
+    id: '1',
+    url: 'wikispaces.com',
+    isMain: true,
+    supportsGoogleDocs: false,
+    isTesClassroom: false,
+  },
+  user: {
+    id: '',
+    username: '',
+    status: '',
+    locale: 'en_US',
+    imageUrlPrefix: 'http://c1.wikicdn.com/i/user_none_',
+    isTeacher: false,
+    canAdministerWiki: false,
+  },
+  wiki: {
+    id: '136226',
+    name: 'learningconversations',
+    text: 'Learning Conversations',
+    module: 'B',
+    isClassroom: false,
+    isTesClassroom: false
+    ,defaultSpaceId: 136226
+    ,isWwwWiki: false
+  },
+  project: {
+    id: '136226',
+    name: ''
+  },
+  space: {
+    id: '136226',
+    name: 'learningconversations',
+    isDefaultSpace: true,
+    isDefaultTemplate: false
+  },
+
+  environment_name: 'prod',
+
+  path: {
+    object: 'file',
+    method: 'view',
+    page: 'Should_every_learning_professional_have_a_blog1.jpeg',
+    id: ''
+  },
+
+  settings: {
+    main_domain: 'wikispaces.com',
+    session_url: 'https://session.wikispaces.com/1/',
+    asset_url_prefix: 'http://c1.wikicdn.com',
+    beta_features: false,
+    isMobileSite: false,
+    isUploadCapable: true,
+    can_discuss: false,
+    has_gdocs: false,
+    isDialog: false,
+    pwin: ''
+  },
+  clockSkewMillis: 1461673875374 - ((window.performance && window.performance.timing.responseStart > 0) ? window.performance.timing.responseStart : (new Date()).getTime())
+}
+
+
+// legacy javascript API variables, use the above instead
+var wikispaces_isUserLoggedIn = !!ws.context.user.id;
+var wikispaces_isMain = ws.context.instance.isMain;
+var wikispaces_username = ws.context.user.username;
+var wikispaces_spaceName = ws.context.space.name;
+var wikispaces_projectName = ws.context.project.name;
+var wikispaces_wikiName = ws.context.wiki.name;
+var wikispaces_wikiText = ws.context.wiki.text;
+var wikispaces_isDefaultSpace = ws.context.space.isDefaultSpace;
+var wikispaces_method = ws.context.path.method;
+var wikispaces_object = ws.context.path.object;
+var wikispaces_page = ws.context.path.page;
+var wikispaces_id = ws.context.path.id;
+var wikispaces_domain = ws.context.instance.url;
+var wikispaces_isUserOrganizer = false;
+var wikispaces_main_domain = ws.context.settings.asset_url_prefix;
+var wikispaces_asset_url_prefix = ws.context.settings.asset_url_prefix;
+var wikispaces_beta_features = ws.context.settings.beta_features;
+var wikispaces_isMobileSite = ws.context.settings.isMobileSite;
+var wikispaces_isUploadCapable = ws.context.settings.isUploadCapable;
+var wikispaces_can_discuss = ws.context.settings.can_discuss;
+var wikispaces_has_gdocs = ws.context.settings.has_gdocs;
+
+</script><title>Learning Conversations - Subscription Expired</title>
+<meta charset="utf-8" />
+<link rel="apple-touch-icon" sizes="144x144" href="http://c1.wikicdn.com/_/z6371z4x/i/logo-144.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="http://c1.wikicdn.com/_/j5j77xz3/i/logo-114.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="http://c1.wikicdn.com/_/vq8j5432/i/logo-72.png" />
+<link rel="apple-touch-icon" href="http://c1.wikicdn.com/_/38515190/i/logo-57.png" />
+<link rel="shortcut icon" href="http://c1.wikicdn.com/_/55v9k02z/i/logo-16.png" />
+<style type="text/css">
+/* Standard theme styles */
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+}
+.ws-theme-header-inner,
+.ws-theme-body-inner,
+.ws-theme-footer-inner,
+.ws-theme-content-inner,
+.ws-theme-sidebar-inner {
+  position: relative;
+}
+.ws-theme-header-inner:after,
+.ws-theme-body-inner:after,
+.ws-theme-footer-inner:after,
+.ws-theme-content-inner:after,
+.ws-theme-sidebar-inner:after,
+.ws-theme-menu-inner:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+.ws-theme-content, .ws-theme-sidebar {
+  overflow-x: auto;
+}
+.ws-theme-footer {
+  text-align: right;
+}
+.ws-theme-footer a, .ws-theme-footer a:hover {
+  text-decoration: none;
+}
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .ws-theme-content {
+    width: 550px;
+    min-height: 384px;
+    float: right;
+  }
+  .ws-theme-sidebar {
+    width: 200px;
+    float: left;
+  }
+}
+@media (min-width: 992px) {
+  .ws-theme-container {
+    width: 970px;
+  }
+  .ws-theme-content {
+    width: 770px;
+    min-height: 496px;
+  }
+}
+@media (min-width: 1200px) {
+  .ws-theme-container {
+    width: 1170px;
+  }
+  .ws-theme-content {
+    width: 970px;
+    min-height: 600px;
+  }
+}
+/* End standard theme styles */
+</style>
+<style type="text/css">
+/* Theme-specific styles */
+body {
+  background-color: #E7E7E7;
+}
+
+.ws-theme-header .WikiSearch .WikiSearchInput,
+.ws-theme-sidebar .WikiSearch .WikiSearchInput,
+.ws-theme-footer .WikiSearch .WikiSearchInput {
+  width: 100%;
+}
+
+.ws-theme-sidebar,
+.ws-theme-footer {
+  color: #000000;
+}
+.ws-theme-sidebar a,
+.ws-theme-footer a {
+  color: #0000FF;
+  text-decoration: none;
+}
+.ws-theme-sidebar a:hover,
+.ws-theme-footer a:hover {
+  text-decoration: underline;
+}
+.ws-theme-sidebar img,
+.ws-theme-footer img {
+  border: none;
+}
+
+.ws-theme-content, .ws-theme-sidebar {
+  overflow-x: visible;
+}
+
+.ws-theme-menu-inner,
+.ws-theme-content-inner {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.ws-theme-body-inner {
+  padding: 6px 5px 0;
+  background-color: #E7E7E7;
+}
+
+.ws-theme-content-inner {
+  background-color: #FFF;
+}
+
+.ws-theme-sidebar {
+  display: none;
+}
+
+.ws-theme-footer {
+  text-align: center;
+}
+.ws-theme-footer-inner {
+  padding: 15px 0;
+}
+.ws-theme-footer .WikiLicense img {
+  vertical-align: text-bottom;
+}
+
+@media (min-width: 768px) {
+  .ws-theme-container {
+    width: auto;
+  }
+
+  .ws-theme-body-inner {
+    padding: 0 10px;
+  }
+
+  .ws-theme-content {
+    width: auto;
+    margin-left: 200px;
+    padding: 30px 0 0 10px;
+    float: none;
+  }
+  .ws-theme-content-inner {
+    float: left;
+    width: 100%;
+  }
+
+  .ws-theme-sidebar {
+    display: block;
+    width: 200px;
+    float: left;
+  }
+  .ws-theme-sidebar .ws-theme-logo {
+    margin-left: -10px;
+    position: relative;
+    z-index: 1;
+  }
+  .ws-theme-sidebar .ws-theme-menu {
+    margin-top: 15px;
+  }
+  .ws-theme-sidebar .ws-theme-menu-inner {
+   background-color: #E7E7E7  }
+  .ws-theme-sidebar .WikiActions {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .ws-theme-sidebar .WikiActions > li {
+    padding: 2px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol {
+    padding-left: 16px;
+  }
+  .ws-theme-sidebar .WikiCustomNav ol.includePageList {
+    padding-left: 0;
+  }
+  .ws-theme-sidebar .WikispacesNavbar {
+    margin: 0 -10px;
+    padding: 0 10px;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit {
+    color: #666;
+    text-align: center;
+  }
+  .ws-theme-sidebar .ws-theme-nav-edit a {
+    color: inherit;
+  }
+
+  .ws-theme-footer {
+    float: left;
+    width: 100%;
+  }
+}
+/* End theme-specific styles */
+</style>
+<link rel="stylesheet" href="http://www.wikispaces.com/stylesheet/viewi/217420326D.gz.css" type="text/css" />
+<link rel="stylesheet" href="http://c1.wikicdn.com/s/gz/9q897620-internal-bootstrap.css" type="text/css" />
+<link rel="stylesheet" href="http://c1.wikicdn.com/s/gz/vz033906-internal.css" type="text/css" />
+<script src="http://c1.wikicdn.com/s/gz/j91xzz3x-top.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+
+  var wsGoogleAccount = 'UA-80504-1';
+  _gaq.push(['_setAccount', wsGoogleAccount]);
+  _gaq.push(['_gat._anonymizeIp']);
+  _gaq.push(['_setDomainName', 'wikispaces.com']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_setCustomVar', 2, 'Authenticated', 'Guest', 2]);
+  _gaq.push(['_trackPageview']);
+</script></head>
+<body><a href="#WikiContent" class="hidden sr-only sr-only-focusable">Skip to main content</a><div id="js-fixed-header-holder" class="fixed"><div class="WikispacesContent WikispacesBs3" role="banner">
+      <div id="WikispacesBanner" class="BannerDisplayed">You are not a member of this wiki. <a href="http://learningconversations.wikispaces.com/space/join"> Join now</a>
+<script type="text/javascript">
+function dismissJoinWiki() {
+  ws.common.displayBanner(false);
+  jQuery.post("http://learningconversations.wikispaces.com/wiki/dismissjoin");
+}
+</script> &nbsp;<a href='#' onclick='dismissJoinWiki(); return false;'>Dismiss</a></div>
+    <div class="ws-main-top-nav visible-xs">
+    <div class="navbar navbar-static-top" style="margin-bottom: 0;">
+      <div class="container">
+                <div class="navbar-header">
+          <div class="visible-xs pull-left">
+            <a href="/space/menu" class="WikispacesDialogLink btn navbar-btn">
+              <i class="fa fa-bars"></i>
+            </a>
+          </div>
+          <div class="visible-xs pull-right js-globalnav-popover-container">
+                        <a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Flearningconversations.wikispaces.com%2Ffile%2Fview%2FShould_every_learning_professional_have_a_blog1.jpeg" class="btn navbar-btn ws-mobile-guest-username js-globalnav-popover-trigger">
+              guest
+            </a>
+                        <div class="hidden js-globalnav-popover-content">
+              <div class="WikispacesContent WikispacesBs3">
+                <div class="WikiInternalHeaderNav noHide">
+  <div class="WikiInternalHeaderNavMenu">
+                          
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/user/join?goto=http%3A%2F%2Flearningconversations.wikispaces.com%2Fspace%2Fjoin" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://helpcenter.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Flearningconversations.wikispaces.com%2Ffile%2Fview%2FShould_every_learning_professional_have_a_blog1.jpeg" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div>              </div>
+            </div>
+          </div>
+          <div class="ws-navbar-middle-xs">
+            <div class="navbar-brand" role="navigation">
+              <a href="http://www.wikispaces.com/" class="ws-logo"></a>
+              <i class="fa fa-angle-right"></i>
+              <a href="http://learningconversations.wikispaces.com/">Learning Conversations</a>
+                              <i class="fa fa-angle-right"></i> <a href="http://learningconversations.wikispaces.com/home">Home</a>
+              
+            </div>
+          </div>
+                    <form action="/search/view" method="post" class="navbar-form ws-include-xs pull-left ws-navbar-search hidden-xs" role="search"><input type="text" class="form-control search-query" name="q" value="" placeholder="Search" /> </form>
+                  </div>
+      </div>
+    </div>
+  </div>
+      <div class="hidden-xs"><div class="WikiInternalHeaderNav WikiElement floating">
+  <div class="WikiInternalHeaderNavMenu">
+                                    <span class="WikiInternalHeaderNavMenuArea guestUserName">guest</span><span class="slideMarker divider">|</span>
+        
+                  <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/user/join?goto=http%3A%2F%2Flearningconversations.wikispaces.com%2Fspace%2Fjoin" rel="nofollow" class="WikispacesXDomainDialogLink">Join</a></span>
+
+          <span class="divider">|</span>
+        
+        <span class="WikiInternalHeaderNavMenuArea"><a class="js-help-trigger" rel="nofollow" href="http://helpcenter.wikispaces.com/">Help</a></span>
+
+        <span class="divider">|</span>
+      
+      <span class="WikiInternalHeaderNavMenuArea"><a href="http://www.wikispaces.com/site/signin?goto=http%3A%2F%2Flearningconversations.wikispaces.com%2Ffile%2Fview%2FShould_every_learning_professional_have_a_blog1.jpeg" rel="nofollow" class="WikispacesXDomainDialogLink">Sign In</a></span>
+      </div>
+</div></div>
+  </div></div><div id="js-fixed-header-offset">
+<div class="ws-theme-body">
+  <div class="ws-theme-container">
+    <div class="ws-theme-body-inner">
+      <div class="ws-theme-sidebar">
+        <div class="ws-theme-sidebar-inner">
+          <header class="ws-theme-logo" role="banner">
+            <a href="http://learningconversations.wikispaces.com/" class="WikiLogo WikiElement"><img src="http://learningconversations.wikispaces.com/space/showlogo/1404942803/logo.png" alt="Learning Conversations" /></a>          </header>
+          <nav role="navigation">
+            <div class="ws-theme-menu">
+              <div class="ws-theme-menu-inner">
+                <ul class="WikiActions WikiElement WikiControls">
+    <li id="WikiActionHome"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="http://learningconversations.wikispaces.com/"><i class="fa fa-home fa-fw"></i></a><a href="http://learningconversations.wikispaces.com/">Wiki Home</a></div></li>
+    <li id="WikiActionChanges"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/wiki/changes"><i class="fa fa-clock-o fa-fw"></i></a><a href="/wiki/changes">Recent Changes</a></div></li>
+    <li id="WikiActionPagesAndFiles"><div><span class="WikiActionSupplemental" style="float: right;"></span><a href="/space/content"><i class="fa fa-file-text-o fa-fw"></i></a><a href="/space/content">Pages and Files</a></div></li>
+    <li id="WikiActionMembers"><div class="js-member-link"><span class="WikiActionSupplemental" style="float: right;"></span><a href="/wiki/members"><i class="fa fa-user fa-fw"></i></a><a href="/wiki/members">Members</a></div></li>
+</ul>
+                <form action="/search/view" method="post" class="WikiSearch WikiElement" role="search"><input type="text" class="form-control WikiSearchInput" name="q" value="" placeholder="Search" /> </form>              </div>
+            </div>
+            <div class="ws-theme-menu">
+              <div class="ws-theme-menu-inner">
+                                <div class="ws-theme-nav-edit">
+                                  </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+      <div class="ws-theme-content">
+        <main class="ws-theme-content-inner" role="main">
+          <div class="contentBox"><div class="innerContentBox" id="WikiContent"><div class="WikispacesContent WikispacesBs3">
+
+<h1>Subscription Expired</h1>
+
+            <p>This wiki's subscription has expired. The wiki will be reactivated once one of the wiki organizers renews the wiki's subscription. For more information, please visit <a target="_blank" href="http://blog.wikispaces.com/2014/09/wikispaces-is-no-longer-offering-free-non-education-wikis.html">this blog post</a>.</p>
+      
+</div></div></div><div id="sentinel" style="clear:both"></div>        </main>
+        <footer class="ws-theme-footer" role="contentinfo">
+          <div class="ws-theme-footer-inner">
+            <div class="WikiFooterNav WikiElement">
+<a href="http://helpcenter.wikispaces.com/" rel="nofollow" class="js-help-trigger">Help</a> &middot;
+<a href="http://www.wikispaces.com/about">About</a> &middot;
+<a href="http://blog.wikispaces.com/" target="_blank">Blog</a> &middot;
+<a href="http://www.wikispaces.com/content/pricing" rel="nofollow">Pricing</a> &middot;
+<a href="http://www.wikispaces.com/privacy" rel="nofollow">Privacy</a> &middot;
+<a href="http://www.wikispaces.com/terms" rel="nofollow">Terms</a> &middot;
+<a href="http://www.wikispaces.com/site/help?url=http%3A%2F%2Flearningconversations.wikispaces.com%2Ffile%2Fview%2FShould_every_learning_professional_have_a_blog1.jpeg" rel="nofollow"><strong>Support</strong></a> &middot;
+<a href="/space/subscribe/upgrade"><strong>Upgrade</strong></a>
+</div>            <div class="WikiLicense WikiElement">Contributions to http://learningconversations.wikispaces.com/ are licensed under a <a rel="license" href="http://www.creativecommons.org/licenses/by-sa/3.0">Creative Commons Attribution Share-Alike 3.0 License</a>. <a rel="license" href="http://www.creativecommons.org/licenses/by-sa/3.0"><img src="http://c1.wikicdn.com/i/creativecommons/by-sa_3.0_80x15.png" width="85" height="15" alt="Creative Commons Attribution Share-Alike 3.0 License"/></a><br />Portions not contributed by visitors are Copyright 2016 Tangient LLC<br /><a href="https://www.tes.com/us/?utm_source=wikispaces&utm_medium=link&utm_campaign=US-52-footer">TES: The largest network of teachers in the world</a></div>          </div>
+        </footer>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script type="text/template" id="dialog-template">
+<div class="modal fade" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="fa fa-times"></i></button>
+        <h4 class="modal-title"><%= header %></h4>
+      </div>
+      <div class="modal-body">
+        <%= body %>
+      </div>
+    </div>
+  </div>
+</div>
+</script>
+
+
+<div id="js-help-template" class="hidden">
+  <div class="ws-help">
+    <div class="js-help-controls WikispacesContent WikispacesBs3">
+      <a href="http://www.wikispaces.com/site/gettingstarted/off" class="btn btn-default hidden js-getting-started-off pull-right">Turn off "Getting Started"</a>
+      <ol class="breadcrumb">
+        <li class="js-special-breadcrumb active">
+          <a href="http://helpcenter.wikispaces.com/" data-breadcrumb="0">Home</a>
+        </li>
+        <li class="js-ellipsis hidden js-special-breadcrumb">
+          ...
+        </li>
+        <li class="js-spinner hidden js-special-breadcrumb"><i class="fa fa-spinner fa-spin"></i></li>
+      </ol>
+    </div>
+    <div class="ws-help-content wiki">Loading...</div>
+  </div>
+</div>
+</div>
+<script src="http://c1.wikicdn.com/s/gz/4z22682x-common.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+jQuery(document).ready(function() {
+  ws.common.addJsonNotices({"warning":[],"error":[],"info":[],"success":[]});
+});
+
+
+--></script><!-- w20 89 mem:3:21(17) tot:89:89(1) -->
+
+</body>
+</html>
