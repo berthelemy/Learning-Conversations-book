@@ -6,7 +6,7 @@ I'm part of the generation of people that had to teach ourselves how to use comp
 
 > > |
 
-[![Commodore PET](./exportlc.php_files/480px-Commodore_2001_Series-IMG_0448b.jpg)](./exportlc.php_files/480px-Commodore_2001_Series-IMG_0448b.jpg)
+[![Commodore PET](./assets/480px-Commodore_2001_Series-IMG_0448b.jpg)](./assets/480px-Commodore_2001_Series-IMG_0448b.jpg)
 
 Just look at that 300 baud tape deck!
 

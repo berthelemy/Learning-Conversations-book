@@ -10,4 +10,4 @@ It's important for your content providers, as, with judicious placement of "impo
 
 It's also important for the "business", as, by analysing what people are searching for, you've then got the equivalent of a training needs analysis ([as discovered by Google](http://www.youtube.com/watch?v=KJ-bMbynst0) [watch from about 13:32 in the video] ) . This assumes you've got a reasonably-sized sample. If you have, then this is by far a simpler process than doing a full [TNA](http://en.wikipedia.org/wiki/Training_needs_analysis).
 
-[![](./exportlc.php_files/wolfram_alpha.png)](http://www.wolframalpha.com/)
+[![](./assets/wolfram_alpha.png)](http://www.wolframalpha.com/)

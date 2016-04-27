@@ -2,7 +2,7 @@
 
 _Date posted: 29 October 2007_
 
-![Capita Learning and Development logo](./exportlc.php_files/capitaldlogo.gif "Capita Learning and Development logo")
+![Capita Learning and Development logo](./assets/capitaldlogo.gif "Capita Learning and Development logo")
 
 I'm going to be leading a free session for [Capita Learning & Development](http://www.capita-ld.co.uk/) on Thursday 10 May, 3.30pm at the [Dakota Hotel, Eurocentral](http://www.dakotaeurocentral.co.uk/) which is very close to Glasgow.
 

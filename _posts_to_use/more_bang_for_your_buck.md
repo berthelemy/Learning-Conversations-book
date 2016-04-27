@@ -10,7 +10,7 @@ Do you want to make your learning & development budget go further? Do you want y
 *   Keep up-to-date with rapidly changing ideas;
 *   Mentor and coach other team members;
 
-For such an initiative to work requires commitment from the whole team. It will change the way the L&D department commissions training. It will change the way managers manage. It will change attitudes to learning, and make your staff more discerning learning consumers. There are three components to a "learning to learn" initiative:![Learning to Learn components](./exportlc.php_files/Learning_to_Learn.jpg "Learning to Learn components")Learning to Learn components
+For such an initiative to work requires commitment from the whole team. It will change the way the L&D department commissions training. It will change the way managers manage. It will change attitudes to learning, and make your staff more discerning learning consumers. There are three components to a "learning to learn" initiative:![Learning to Learn components](./assets/Learning_to_Learn.jpg "Learning to Learn components")Learning to Learn components
 
 1.  Changing culture - so that "what did you learn today?" becomes an accepted question across your organisation;
 2.  Changing communication structures - so that communities of practice can develop without barriers of hierarchy or competition;

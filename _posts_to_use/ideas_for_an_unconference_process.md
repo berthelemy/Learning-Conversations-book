@@ -9,7 +9,7 @@ _Date posted: 30 April 2010_
 3.  Ideas and questions got lost in the rush through the slides.
 4.  In [Clive Shepherd's](http://clive-shepherd.blogspot.com/) words, it felt more like "a performance art" than a means of stimulating thought and learning.
 
-So, as I do, I've been thinking about how to improve the process. It's guided by an underlying principle, that face-to-face time is too valuable to be spent doing stuff that is better done on your own. Face-to-face time should be about conversation. It's through questioning, debate and argument that we then change our opinions and behaviours. The diagram below shows a process that I think would work:[![Unconference process](./exportlc.php_files/unconference_process.001.png "Unconference process")](./exportlc.php_files/unconference_process.001.png)Basically, what's happening is this:
+So, as I do, I've been thinking about how to improve the process. It's guided by an underlying principle, that face-to-face time is too valuable to be spent doing stuff that is better done on your own. Face-to-face time should be about conversation. It's through questioning, debate and argument that we then change our opinions and behaviours. The diagram below shows a process that I think would work:[![Unconference process](./assets/unconference_process.001.png "Unconference process")](./assets/unconference_process.001.png)Basically, what's happening is this:
 
 *   The presentation is recorded in advance.
 *   Anyone who's attending the unconference can create a presentation.

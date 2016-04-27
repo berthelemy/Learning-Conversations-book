@@ -2,7 +2,7 @@
 
 _Date posted: 21 May 2008_
 
-We've had one of Eon's new smart meters installed today. It means our energy suppliers can take meter readings remotely, and also they provide a power display so we can see how much energy we're using.![Smart meter image](./exportlc.php_files/Smartmetertitle.jpg)
+We've had one of Eon's new smart meters installed today. It means our energy suppliers can take meter readings remotely, and also they provide a power display so we can see how much energy we're using.![Smart meter image](./assets/Smartmetertitle.jpg)
 
 From [Eon](http://www.eonenergy.com/At-Home/ExistingCustomers/smart-meters.htm)
 

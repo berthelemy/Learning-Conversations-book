@@ -2,7 +2,7 @@
 
 _Date posted: 12 January 2011_
 
-Last week, [Charles Jennings](http://charles-jennings.blogspot.com/) wrote an important analysis of the [state of training and the need for more "performance support" initiatives](http://charles-jennings.blogspot.com/2010/12/who-needs-training-again.html). It raised a fair bit of discussion. Focussing on new system rollouts for the time-being, here's my take on what's required for a successful rollout.[![Rollout and communications plan](./exportlc.php_files/rollout_plan.png)](./exportlc.php_files/rollout_plan.png)
+Last week, [Charles Jennings](http://charles-jennings.blogspot.com/) wrote an important analysis of the [state of training and the need for more "performance support" initiatives](http://charles-jennings.blogspot.com/2010/12/who-needs-training-again.html). It raised a fair bit of discussion. Focussing on new system rollouts for the time-being, here's my take on what's required for a successful rollout.[![Rollout and communications plan](./assets/rollout_plan.png)](./assets/rollout_plan.png)
 
 Rollout and communications plan
 

@@ -12,7 +12,7 @@ I am the Managing Director of a learning and technology consultancy ([Wyver Solu
 *   Providing configuration services, training and support
 *   Acting as the interface between IT, Management and the Learning & Development team
 
-I am passionate about putting the learner, the user at the centre of what we do. This blog is where I put personal thoughts and ideas - often about, but not exclusively, learning technology. For more finished articles, providing advice and guidance, go to the Wyver Solutions blog. [![View Mark Berthelemy's profile on LinkedIn](./exportlc.php_files/btn_profile_bluetxt_80x15.gif)](http://www.linkedin.com/in/markberthelemy)
+I am passionate about putting the learner, the user at the centre of what we do. This blog is where I put personal thoughts and ideas - often about, but not exclusively, learning technology. For more finished articles, providing advice and guidance, go to the Wyver Solutions blog. [![View Mark Berthelemy's profile on LinkedIn](./assets/btn_profile_bluetxt_80x15.gif)](http://www.linkedin.com/in/markberthelemy)
 
 ### Disclaimer {#disclaimer}
 

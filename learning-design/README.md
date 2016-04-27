@@ -34,7 +34,7 @@ Getting the learning architecture is important, but, if you get the technology o
 
 ### Learning architecture {#learning-architecture}
 
-![Learning architecture iteration](./exportlc.php_files/learning_architecture_500.png "Learning architecture iteration")
+![Learning architecture iteration](./assets/learning_architecture_500.png "Learning architecture iteration")
 
 ### Business need {#business-need}
 
@@ -86,7 +86,7 @@ Some more thinking on the place of learning management systems within a corporat
 
 _Date posted: 12 October 2010_
 
-[![spiral](./exportlc.php_files/path2816.png "spiral")](./exportlc.php_files/path2816.png)
+[![spiral](./assets/path2816.png "spiral")](./assets/path2816.png)
 
 What follows is an update of a post I wrote back in 2005 about what to consider when designing learning programmes. As "Learning Designers", once we've asked the right questions at the outset of the project, we need to get down to the iterative process of coming up with a solution.
 

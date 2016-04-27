@@ -28,7 +28,7 @@ You will need to download two pieces of software:
 
 #### Installing & configuring Easyphp {#installing-configuring-easyphp}
 
-The EasyPHP installer will set itself up in your Program Files folder. It will create a www sub-folder which will be where your webpages are served from. It will also create a mysql/data folder where the data for MySQL is stored. This is not ideal. It's far better to have your data & your script files served from within your My Documents space (which hopefully is on a different partition to your Windows Operating System!). That way it's far easier to keep it backed up. It also means that your Program Files folder doesn't become bloated. There are two configuration files to change. Run EasyPHP, so that you see the ![EasyPHP icon](./exportlc.php_files/easyphp.png "EasyPHP icon") with the red dot flashing in your task bar. Right click on the icon and select "Configuration".![EasyPHP configuration menu](./exportlc.php_files/easyphp_configuration.png "EasyPHP configuration menu")These configuration options allow you to control Apache, PHP and MySQL.
+The EasyPHP installer will set itself up in your Program Files folder. It will create a www sub-folder which will be where your webpages are served from. It will also create a mysql/data folder where the data for MySQL is stored. This is not ideal. It's far better to have your data & your script files served from within your My Documents space (which hopefully is on a different partition to your Windows Operating System!). That way it's far easier to keep it backed up. It also means that your Program Files folder doesn't become bloated. There are two configuration files to change. Run EasyPHP, so that you see the ![EasyPHP icon](./assets/easyphp.png "EasyPHP icon") with the red dot flashing in your task bar. Right click on the icon and select "Configuration".![EasyPHP configuration menu](./assets/easyphp_configuration.png "EasyPHP configuration menu")These configuration options allow you to control Apache, PHP and MySQL.
 
 #### Configuring MySQL {#configuring-mysql}
 
@@ -61,7 +61,7 @@ To test that everything is working:
 3.  Save the file into your websites folder
 4.  Open the address _http://localhost/phpinfo.php_ in your browser
 
-You should see something like the following:![PHPinfo screenshot](./exportlc.php_files/phpinfo_screenshot.png "PHPinfo screenshot")PHPinfo screenshotIf you don't it's probably because I've forgotten a particular instruction. Let me know & I'll see what needs to be done.
+You should see something like the following:![PHPinfo screenshot](./assets/phpinfo_screenshot.png "PHPinfo screenshot")PHPinfo screenshotIf you don't it's probably because I've forgotten a particular instruction. Let me know & I'll see what needs to be done.
 
 ### Installing web applications {#installing-web-applications}
 

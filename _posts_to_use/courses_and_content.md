@@ -7,7 +7,7 @@ I've long been an advocate for separating content from courses, but [Cathy Moore
 1.  Build your course **inside** your information system, usually known as a content management system (CMS). This is how [w3schools](http://www.w3schools.com/) works. Each page in the tutorials is built within the CMS, and is thus searchable and individually addressable. You can work through sequentially, use the menu to jump to specific pages, or use the search engine to find specific information.
 2.  Build your courses separately from your information. Keep the information in the CMS, and build courses in your LMS.
 
-![Course and content separation diagram](./exportlc.php_files/course_and_content.001.png "Course and content separation diagram")
+![Course and content separation diagram](./assets/course_and_content.001.png "Course and content separation diagram")
 
 ### Implications of separating course and content {#implications-of-separating-course-and-content}
 

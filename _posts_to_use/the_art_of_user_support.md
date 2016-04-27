@@ -2,7 +2,7 @@
 
 _Date posted: 22 March 2010_
 
-#yam When I source websites and tools for people, my primary focus is on providing excellent user support. If my clients aren't confident that they will get help at their point of need, then they will not use the systems I'm providing. The more use they get out of the systems, the more likely they are to come back to me for additional work.[![User support = empathetic attitudes + supporting processes + consistent communication](./exportlc.php_files/customer_service.001.png "User support = empathetic attitudes + supporting processes + consistent communication")](./exportlc.php_files/customer_service.001.png)Good user support is made up of three elements:
+#yam When I source websites and tools for people, my primary focus is on providing excellent user support. If my clients aren't confident that they will get help at their point of need, then they will not use the systems I'm providing. The more use they get out of the systems, the more likely they are to come back to me for additional work.[![User support = empathetic attitudes + supporting processes + consistent communication](./assets/customer_service.001.png "User support = empathetic attitudes + supporting processes + consistent communication")](./assets/customer_service.001.png)Good user support is made up of three elements:
 
 1.  Empathetic attitudes
 2.  Underlying processes

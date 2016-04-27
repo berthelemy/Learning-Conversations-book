@@ -2,7 +2,7 @@
 
 _Date posted: 4 July 2011_
 
-Following my Prince2 training, I've gained a new appreciation for the role of the Project Manager. They might not be the person who gets up in front of the cameras, but a good PM is the lynch pin of a successful project. The one thing that caused major confusion on the course was the idea that, unless special safeguards are in place, the PM should never come from the Supplier-side of the project.![Prince2 Organisation](./exportlc.php_files/Prince2_org.png)
+Following my Prince2 training, I've gained a new appreciation for the role of the Project Manager. They might not be the person who gets up in front of the cameras, but a good PM is the lynch pin of a successful project. The one thing that caused major confusion on the course was the idea that, unless special safeguards are in place, the PM should never come from the Supplier-side of the project.![Prince2 Organisation](./assets/Prince2_org.png)
 
 Prince2 Organisation
 

@@ -22,7 +22,7 @@ The social learning tools, whether they are synchronous (at the same time) or as
 
 This is illustrated in the model of online learning diagram below (taken from page 61 of [Theory and Practice of Online Learning (2nd edition), Ed. Terry Anderson, Athabasca Publishing, free pdf download](http://www.aupress.ca/books/120146/ebook/99Z_Anderson_2008-Theory_and_Practice_of_Online_Learning.pdf))
 
-[![](./exportlc.php_files/model_online_learning.png)](./exportlc.php_files/model_online_learning.png)
+[![](./assets/model_online_learning.png)](./assets/model_online_learning.png)
 
 Even in the most locked down training environment, such as compliance training (although I'm with [Donald Clark](http://donaldclarkplanb.blogspot.com/2007/10/complaince-killing-training.html) here on questioning its effectiveness) there is a social element. We cannot prevent people talking to each other, from finding out how that particular community of practice really does things. Just see Etienne Wenger's [vignette of a claims processing office](http://www.analytictech.com/mb119/excerpted_from_wenger.htm) to see that happening. If a trainer thinks that they are the sole source of information or the sole means of changing behaviour, then, I'm afraid, they are delusional.
 

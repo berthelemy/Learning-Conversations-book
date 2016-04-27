@@ -2,7 +2,7 @@
 
 _Date posted: 27 January 2011_
 
-I attended the quirky, but interesting [Be Bettr conference](http://bettr.org/) a couple of weeks ago. The most fascinating presentation (of the ones I watched) was that from Mohit Midha, who heads up Blue Duck Education, which produces [Mangahigh.com](http://www.mangahigh.com/)[![Mangahigh.com](./exportlc.php_files/mangahigh.png)](./exportlc.php_files/mangahigh.png)MangaHigh is "one of the world�s first games-based-learning sites, where students learn Mathematics via purpose-built casual games that balance fun and learning." Let me expand on that, and we'll see how (or if) their ideas can be translated into adult learning. First, I'll try to give you a flavour of what MangaHigh does for the student and for the teacher. The games within MangaHigh have a number of key characteristics:
+I attended the quirky, but interesting [Be Bettr conference](http://bettr.org/) a couple of weeks ago. The most fascinating presentation (of the ones I watched) was that from Mohit Midha, who heads up Blue Duck Education, which produces [Mangahigh.com](http://www.mangahigh.com/)[![Mangahigh.com](./assets/mangahigh.png)](./assets/mangahigh.png)MangaHigh is "one of the world�s first games-based-learning sites, where students learn Mathematics via purpose-built casual games that balance fun and learning." Let me expand on that, and we'll see how (or if) their ideas can be translated into adult learning. First, I'll try to give you a flavour of what MangaHigh does for the student and for the teacher. The games within MangaHigh have a number of key characteristics:
 
 1.  They are simple, usually based around a single task or activity.
 2.  The are first and foremost MATHS. They are chock full of maths content.

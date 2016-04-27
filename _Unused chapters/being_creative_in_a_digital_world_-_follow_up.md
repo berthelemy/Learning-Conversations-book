@@ -2,7 +2,7 @@
 
 _Date posted: 7 January 2011_
 
-I led a workshop this morning on Being Creative in a Digital World ([see pre-workshop post](http://www.learningconversations.co.uk/main/index.php/2010/11/01/being-creative-in-digital-world?blog=5)).[![Snowy field in Belper](./exportlc.php_files/snow_field.jpg "Snowy field in Belper")](./exportlc.php_files/snow_field.jpg)Due to the snow, I was unable to get to London, but by the magic of [Webex](http://www.webex.com/), we were able to continue as planned. Working online did require quite a considerable rework of the workshop design. So we ended up with the following structure:
+I led a workshop this morning on Being Creative in a Digital World ([see pre-workshop post](http://www.learningconversations.co.uk/main/index.php/2010/11/01/being-creative-in-digital-world?blog=5)).[![Snowy field in Belper](./assets/snow_field.jpg "Snowy field in Belper")](./assets/snow_field.jpg)Due to the snow, I was unable to get to London, but by the magic of [Webex](http://www.webex.com/), we were able to continue as planned. Working online did require quite a considerable rework of the workshop design. So we ended up with the following structure:
 
 1.  Introductions - around the phone conference
 2.  Some activities to get used to the features of the Webex environment (eg. Chat), at the same time as finding out more about the people in the room and what they were hoping to get from the session.

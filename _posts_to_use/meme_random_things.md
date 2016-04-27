@@ -10,4 +10,4 @@ Well, this is the first time I've been tagged, and by none less than [Karyn](htt
 4.  I took a part-time furniture-making course a few years back. Probably one of the most satisfying learning experiences I've ever had. We still use the coffee table.
 5.  I love playing music. It's great when you're playing in a band or an orchestra - everyone knows why they're there and what they're meant to be doing - and you produce music with feeling.
 
-That's enough for now. I'm not going to tag anyone though.![Coffee Table - by Mark](./exportlc.php_files/P8070002-1.JPG "Coffee Table - by Mark")Coffee Table - by Mark
+That's enough for now. I'm not going to tag anyone though.![Coffee Table - by Mark](./assets/P8070002-1.JPG "Coffee Table - by Mark")Coffee Table - by Mark

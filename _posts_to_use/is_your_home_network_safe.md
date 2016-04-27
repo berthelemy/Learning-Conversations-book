@@ -2,7 +2,7 @@
 
 _Date posted: 6 October 2011_
 
-Many of us work from home and use the internet on a daily basis. Just as in a city, the internet has some places that are good to be, and others that are not so good. The difference though is that, on the internet, you can be sent to one of those dodgy places from a single click. To protect you, your family and your work colleagues, I would advise a simple strategy that works just like a castle, with multi-layers of defence.[![Beaumaris Castle](./exportlc.php_files/300px-Beaumaris_Castle.jpg)](./exportlc.php_files/300px-Beaumaris_Castle.jpg) Beaumaris Castle - from [Wikipedia/Beaumaris Castle](http://en.wikipedia.org/wiki/Beaumaris_Castle)
+Many of us work from home and use the internet on a daily basis. Just as in a city, the internet has some places that are good to be, and others that are not so good. The difference though is that, on the internet, you can be sent to one of those dodgy places from a single click. To protect you, your family and your work colleagues, I would advise a simple strategy that works just like a castle, with multi-layers of defence.[![Beaumaris Castle](./assets/300px-Beaumaris_Castle.jpg)](./assets/300px-Beaumaris_Castle.jpg) Beaumaris Castle - from [Wikipedia/Beaumaris Castle](http://en.wikipedia.org/wiki/Beaumaris_Castle)
 
 ### Layer 1: Incoming traffic {#layer-1-incoming-traffic}
 

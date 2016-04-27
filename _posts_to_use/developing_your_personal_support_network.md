@@ -35,9 +35,9 @@ Move on to the next page when you are ready.
 There are a number of ways to subscribe to feeds within Google Reader:
 
 *   If you know the address of the feed (often ending in something like /rss.xml) to which you want to subscribe, you can just click on the "Add Subscriptions" link and paste the address in the text field that appears.
-*   Some sites, like this one, have an "Add to Google" button ([![Add to Google](./exportlc.php_files/add.gif "Add to Google")](http://fusion.google.com/add?feedurl=http://www.learningconversations.co.uk/main/index.php/mark?tempskin=_rss2)). If you click on this you will be taken automatically to Google Reader to subscribe.
+*   Some sites, like this one, have an "Add to Google" button ([![Add to Google](./assets/add.gif "Add to Google")](http://fusion.google.com/add?feedurl=http://www.learningconversations.co.uk/main/index.php/mark?tempskin=_rss2)). If you click on this you will be taken automatically to Google Reader to subscribe.
 *   Or you can copy the address of the website and paste it in Google Reader's "Add subscription" box. If there's a feed associated with the page, it will be added to your subscriptions.
-*   Or look for a link or a button that indicates a feed is available (eg. ![RSS icon](./exportlc.php_files/feeds_icon.jpg "Feeds icon") ![XML icon](./exportlc.php_files/feeds_rss2.jpg "RSS icon")). Click on this link and copy the contents of the address bar into the Add Subscriptions text box. The page that comes up when you click on the link might look full of strange code but Google Reader will display it properly.
+*   Or look for a link or a button that indicates a feed is available (eg. ![RSS icon](./assets/feeds_icon.jpg "Feeds icon") ![XML icon](./assets/feeds_rss2.jpg "RSS icon")). Click on this link and copy the contents of the address bar into the Add Subscriptions text box. The page that comes up when you click on the link might look full of strange code but Google Reader will display it properly.
 
 > Start with this site - and subscribe to it. If you use the Add to Google button it will open in a new window. Then pick out some of the websites that interested you from page 1 and subscribe to them.
 

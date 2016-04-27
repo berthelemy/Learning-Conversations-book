@@ -6,7 +6,7 @@ _Date posted: 25 July 2007_
 
 ### What is Twitter? {#what-is-twitter}
 
-When you get a Twitter account you're presented with a box where you have 140 characters in which to say what you're doing now.![Twitter input box](./exportlc.php_files/twitter_input.png "Twitter input box")Twitter: What are you doing now?You can also add entries by phone or via a small number of instant messenger clients (not Skype or Microsoft IM unfortunately). You can choose whether you want your entries to be open to the world, or just to people you allow to see them. You can "follow" other people's entries. This means that they appear in your personal "timeline" - or list of entries. They can also be sent to your mobile phone as a text message. Similarly, other people can choose to follow you and your entries.
+When you get a Twitter account you're presented with a box where you have 140 characters in which to say what you're doing now.![Twitter input box](./assets/twitter_input.png "Twitter input box")Twitter: What are you doing now?You can also add entries by phone or via a small number of instant messenger clients (not Skype or Microsoft IM unfortunately). You can choose whether you want your entries to be open to the world, or just to people you allow to see them. You can "follow" other people's entries. This means that they appear in your personal "timeline" - or list of entries. They can also be sent to your mobile phone as a text message. Similarly, other people can choose to follow you and your entries.
 
 ### What is Twitter for? {#what-is-twitter-for}
 

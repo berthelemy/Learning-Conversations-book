@@ -4,7 +4,7 @@ _Date posted: 16 August 2011_
 
 You may have noticed the little badge on the right of this blog that says I'm one of [elearninglearning.com](http://www.elearninglearning.com/)'s featured writers.
 
-[![Elearning learning featured writer](./exportlc.php_files/badge-elearning-small.jpg)](http://www.elearninglearning.com/&source=learning-conversations)
+[![Elearning learning featured writer](./assets/badge-elearning-small.jpg)](http://www.elearninglearning.com/&source=learning-conversations)
 
 Elearning Learning brings together content from leading experts and companies like the [Adobe Captivate Blog](http://www.elearninglearning.com/&source=adobe-captivate-blog), [Clark Quinn](http://www.elearninglearning.com/&source=clark-quinn), [Clive Shepherd](http://www.elearninglearning.com/&source=clive-on-learning), [Jay Cross](http://www.elearninglearning.com/&source=jay-cross), [Karl Kapp](http://www.elearninglearning.com/&source=kapp-notes), and many others. You can find a long list of the Featured sources on the right hand side of the [ElearningLearning](http://www.elearninglearning.com/) home page.  There is also a lot more content that comes in as well beyond the Featured sources.
 

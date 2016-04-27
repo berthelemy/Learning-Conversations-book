@@ -2,7 +2,7 @@
 
 _Date posted: 4 February 2011_
 
-[![The New Learning Architect book cover](./exportlc.php_files/nla_front_shadow_178x243.jpg)](http://onlignment.com/thenewlearningarchitect/)I'm reading [Clive Shepherd's](http://clive-shepherd.blogspot.com/) recently published book "[The New Learning Architect](http://onlignment.com/thenewlearningarchitect/)" at the moment. I got a free copy, on condition that I write a review of the book. But this is a book that I would actually go and buy. If you work in any aspect of learning & development or training, this really is a "must read". It looks at the role of the learning architect (someone who works with the client to provide a solution, not someone who takes orders from a client), briefly covers some theories around learning and neuroscience, and then goes on with a whole set of example learning opportunities, covering:
+[![The New Learning Architect book cover](./assets/nla_front_shadow_178x243.jpg)](http://onlignment.com/thenewlearningarchitect/)I'm reading [Clive Shepherd's](http://clive-shepherd.blogspot.com/) recently published book "[The New Learning Architect](http://onlignment.com/thenewlearningarchitect/)" at the moment. I got a free copy, on condition that I write a review of the book. But this is a book that I would actually go and buy. If you work in any aspect of learning & development or training, this really is a "must read". It looks at the role of the learning architect (someone who works with the client to provide a solution, not someone who takes orders from a client), briefly covers some theories around learning and neuroscience, and then goes on with a whole set of example learning opportunities, covering:
 
 *   Formal learning
 *   Non-formal learning

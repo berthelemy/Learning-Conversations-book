@@ -6,7 +6,7 @@ _Teachmeet: A meeting of teachers to share ideas, be inspired and develop person
 
 ### The Primary National Curriculum has changed {#the-primary-national-curriculum-has-changed}
 
-If you're not directly involved with teaching this may come as news to you. The 20 year old, highly proscriptive National Curriculum has recently been replaced with something much more flexible and suitable for 21st Century learners:[![Primary Curriculum](./exportlc.php_files/primary_curriculum.png "Primary Curriculum")](./exportlc.php_files/primary_curriculum.png)The event was designed to look at how schools can develop a more creative curriculum planning process, which focussed on the Key Skills and allowed teachers to meet the real, individual and local needs of their pupils.
+If you're not directly involved with teaching this may come as news to you. The 20 year old, highly proscriptive National Curriculum has recently been replaced with something much more flexible and suitable for 21st Century learners:[![Primary Curriculum](./assets/primary_curriculum.png "Primary Curriculum")](./assets/primary_curriculum.png)The event was designed to look at how schools can develop a more creative curriculum planning process, which focussed on the Key Skills and allowed teachers to meet the real, individual and local needs of their pupils.
 
 ### Creative planning {#creative-planning}
 

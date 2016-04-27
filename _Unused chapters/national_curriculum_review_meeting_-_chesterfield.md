@@ -4,7 +4,7 @@ _Date posted: 22 February 2011_
 
 This event has been cancelled
 
-![In association with Learning Without Frontiers](./exportlc.php_files/1286095747-1.jpg)
+![In association with Learning Without Frontiers](./assets/1286095747-1.jpg)
 
 There are distinct parallels with the work I do in the corporate sector, and those in the education sector (which I inhabited as a teacher and product consultant for many years). So, I keep well-connected with my education colleagues, and have had many long discussions about the direction education is going in the UK and the rest of the world. It's time for those discussions to come out into the open. Rather than just talking about stuff, we've now got the opportunity to have a say directly into government. The Rt Hon Michael Gove MP, Secretary of State for Education, has recently announced a review of the primary and secondary National Curriculum in England. As part of this review the Department for Education has issued a [vidence](http://www.education.gov.uk/consultations/index.cfm?action=consultationDetails&consultationId=1730&external=no&menu=1) asking for opinions and evidence that will start a national debate about what is taught in the schools of England. As an educational professional, school governor, policy maker, parent, carer, learner in England the above review affects you and the children under your care. If you are an employer in England it also affects you. In fact it's difficult to think of anybody that the outcome of this review does not touch in some way.
 

@@ -2,7 +2,7 @@
 
 _Date posted: 25 March 2010_
 
-[![Various logos of influencing organisations](./exportlc.php_files/influences.png "Influences")](./exportlc.php_files/influences.png)Whatever we might like to think, our corporations are not isolated from the surrounding society. In the developed world the brand names, web sites, and tools shown as examples here are playing a major part in how our society operates, consumes, communicates and learns.
+[![Various logos of influencing organisations](./assets/influences.png "Influences")](./assets/influences.png)Whatever we might like to think, our corporations are not isolated from the surrounding society. In the developed world the brand names, web sites, and tools shown as examples here are playing a major part in how our society operates, consumes, communicates and learns.
 
 ### Key trends in society {#key-trends-in-society}
 
@@ -66,7 +66,7 @@ It's the holy grail... The thing every L&D Manager is looking for... How to prov
 
 Click on the image for a full-size version
 
-[![Improving performance](./exportlc.php_files/good_practice.com.png "Improving performance")](./exportlc.php_files/good_practice.com.png)
+[![Improving performance](./assets/good_practice.com.png "Improving performance")](./assets/good_practice.com.png)
 
 Reproduced by kind permission of [GoodPractice.com](http://goodpractice.com/)
 

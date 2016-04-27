@@ -2,7 +2,7 @@
 
 _Date posted: 8 June 2009_
 
-![Moodle Administration book cover](./exportlc.php_files/moodle_administration_book.png "Moodle Administration book cover")In writing Moodle Administration, Alex B�chner, from [Synergy Learning](http://www.synergy-learning.com/) has created an extremely useful resource that I would recommend to anyone in charge of a Moodle site. He starts from the point at which you have chosen to use Moodle, and systematically introduces each element of the administrator's role:
+![Moodle Administration book cover](./assets/moodle_administration_book.png "Moodle Administration book cover")In writing Moodle Administration, Alex B�chner, from [Synergy Learning](http://www.synergy-learning.com/) has created an extremely useful resource that I would recommend to anyone in charge of a Moodle site. He starts from the point at which you have chosen to use Moodle, and systematically introduces each element of the administrator's role:
 
 *   Installation
 *   The Moodle system

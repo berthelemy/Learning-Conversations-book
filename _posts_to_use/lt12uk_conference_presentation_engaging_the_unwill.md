@@ -2,7 +2,7 @@
 
 _Date posted: 19 January 2012_
 
-Join me for a live "[Exchange](http://towardsmaturity.org/article/2012/01/11/learning-technology-exchange-new-2012/)" conversation on stand 218 from 11:30-12:45 on Weds 24th Jan. Limited numbers. Bookings being taken from Weds 18th Jan.[![Towards Maturity logo](./exportlc.php_files/tm_logo_small.png)](http://towardsmaturity.org/article/2012/01/11/learning-technology-exchange-new-2012/)[Gareth Williams](http://www.learningtechnologies.co.uk/speakers/gareth-williams/) and I are leading a [conference workshop](http://www.learningtechnologies.co.uk/track-3-session-22/) on this topic on the Wednesday afternoon. Here are some of the key points and questions to get us thinking:
+Join me for a live "[Exchange](http://towardsmaturity.org/article/2012/01/11/learning-technology-exchange-new-2012/)" conversation on stand 218 from 11:30-12:45 on Weds 24th Jan. Limited numbers. Bookings being taken from Weds 18th Jan.[![Towards Maturity logo](./assets/tm_logo_small.png)](http://towardsmaturity.org/article/2012/01/11/learning-technology-exchange-new-2012/)[Gareth Williams](http://www.learningtechnologies.co.uk/speakers/gareth-williams/) and I are leading a [conference workshop](http://www.learningtechnologies.co.uk/track-3-session-22/) on this topic on the Wednesday afternoon. Here are some of the key points and questions to get us thinking:
 
 ### The problem {#the-problem}
 
@@ -27,7 +27,7 @@ We all behave in different ways in different situations. When dealing with learn
 
 ### Communication {#communication}
 
-Effective communication is at the heart of learning activity. Whether it's one-to-one, one-to-many, or many-to-many. It's our job, as facilitators of learning, to make sure that communication is made as easy as possible, and as clear as possible. As soon as a learner becomes awash in a sea of information, or, even worse, adrift in an information desert, it often becomes easier to just give up. Effective communication is partly about the content, and how it's presented. But it's also about timing. Every learning intervention should come with a communications plan, where you set out how and when you will communicate with the learners.[![Communication and timing](./exportlc.php_files/comms_timing.png)](./exportlc.php_files/comms_timing.png)It's about giving people the information they need, just when they need it to push them onto the next stage. Question: What one thing could you do to improve communication around your learning programmes?
+Effective communication is at the heart of learning activity. Whether it's one-to-one, one-to-many, or many-to-many. It's our job, as facilitators of learning, to make sure that communication is made as easy as possible, and as clear as possible. As soon as a learner becomes awash in a sea of information, or, even worse, adrift in an information desert, it often becomes easier to just give up. Effective communication is partly about the content, and how it's presented. But it's also about timing. Every learning intervention should come with a communications plan, where you set out how and when you will communicate with the learners.[![Communication and timing](./assets/comms_timing.png)](./assets/comms_timing.png)It's about giving people the information they need, just when they need it to push them onto the next stage. Question: What one thing could you do to improve communication around your learning programmes?
 
 ### Management {#management}
 

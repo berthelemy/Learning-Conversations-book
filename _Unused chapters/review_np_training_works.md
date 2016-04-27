@@ -2,7 +2,7 @@
 
 _Date posted: 12 August 2011_
 
-[![NP Training Works logo](./exportlc.php_files/NP_Training_Works.png)](http://www.nptrainingworks.com/)
+[![NP Training Works logo](./assets/NP_Training_Works.png)](http://www.nptrainingworks.com/)
 
 [NP Training Works](http://www.nptrainingworks.com/) are a relatively small, US-based company who have developed an elearning content delivery business model that's quite different from the mainstream.
 
