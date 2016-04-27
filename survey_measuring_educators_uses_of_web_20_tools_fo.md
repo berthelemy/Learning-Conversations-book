@@ -1,5 +1,0 @@
-# Survey Measuring Educators� Uses of Web 2.0 Tools for Professional Growth {#survey-measuring-educators-uses-of-web-2-0-tools-for-professional-growth}
-
-_Date posted: 15 February 2007_
-
-I was listening to a [podcast from EdTechTalk](http://www.edtechtalk.com/node/1502) today (whilst walking the dog - it's my best professional development opportunity!) The Women of the Web team were getting set to interview [Terry Freedman](http://www.terry-freedman.org.uk/index.php) about his new edition of [Coming of Age](http://www.terry-freedman.org.uk/db/web2/). During the introductions [Sharon Peters](http://www.mtl-peters.net/blog/) mentioned that she was doing a presentation (at the Illinois Online Conference) on tapping into online social networks for professional growth. As part of the presentation, Sharon has prepared a short [survey to explore the current use of web2.0-type tools for professional growth](http://www.surveymonkey.com/s.asp?u=963633267540). It's very easy to do, and should provide some useful data - which may even persuade those in positions of power that there is value in encouraging online social networking.
