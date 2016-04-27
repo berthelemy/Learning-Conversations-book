@@ -1,0 +1,15 @@
+{
+    "plugins": ["callouts","image-captions"],
+    "pluginsConfig":
+    {
+        "callouts":
+        {
+            "showTypeInHeader": false
+        },
+        
+        "image-captions": {
+            "caption": "Figure _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+        }
+  
+    }
+}
