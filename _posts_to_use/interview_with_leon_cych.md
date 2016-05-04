@@ -1,0 +1,5 @@
+# Interview with Leon Cych {#interview-with-leon-cych}
+
+_Date posted: 19 September 2007_
+
+Leon has just published an [interview he recorded](http://www.l4l.co.uk/?p=84) where we talked about a range of topics but mainly focussed on the possibilities for teacher professional development. Amazingly, (and I am flattered), he even quoted me in a [column he wrote for the Guardian this week](http://education.guardian.co.uk/link/story/0,,2170978,00.html). In it he discusses an approach to teacher CPD that is characterised by a focus on the needs of the school & the teacher. Not imposed from outside. He's talking in the context of using ICT effectively, but this approach should be true across the board. It's interesting that he notes that Building Schools for the Future has concentrated on the "stuff" - the hardware & environment - and missed out the CPD angle. Interesting because Laurie O'Donnell from LTS has recently been [comparing the Scottish education system with Singapore](http://ltsblogs.org.uk/laurieodonnell/?p=57#comments). Both appear to have put **learning** at the top of the priority list - for both teachers & students - with technology coming later.

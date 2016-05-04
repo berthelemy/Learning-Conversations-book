@@ -1,0 +1,5 @@
+# IBM Lotus Symphony - free! {#ibm-lotus-symphony-free}
+
+_Date posted: 20 September 2007_
+
+Via [Jane Knight](http://janeknight.typepad.com/pick/2007/09/ibm-lotus-symph.html). What's the future for Microsoft Office for everyone except large corporates? Now that IBM has released Lotus Symphony - a full "office" suite of tools (Documents, Presentations, Spreadsheets) - there's no real need for anyone to buy MS Office. Unless, that is, your organisation uses MS server tools like Sharepoint, has set up clever macros, or uses productivity tools like [MindManager](http://www.mindjet.com/) that integrate with MS Office. Or if you're a Mac user, although a Mac version is on the way. If you're looking for a free open (note: not open source - just open file formats) alternative to MS Office then you now have a choice between one supported by IBM, and one supported by Sun and [IBM](http://symphony.lotus.com/software/lotus/symphony/buzzentry.jspa?selectedCategoryID=5&threadID=2191&tstart=0) ([OpenOffice](http://www.openoffice.org/)). It's going to be a difficult choice. I suppose, for a lot of people it will come down to what gets bundled with their new machines.

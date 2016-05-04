@@ -1,0 +1,5 @@
+# RSS, Blogs & You {#rss-blogs-you}
+
+_Date posted: 19 March 2007_
+
+A couple of weeks ago I led an internal workshop with a group of learning professionals (mainly trainers and consultants). It looked at how they might make use of RSS & blogs to support their work. The only bit not recorded on the video was an exercise where we looked at the various answers to ASTD's Big Question last October: "Should all learning professionals have a blog?" No group conclusions were drawn but a fair few people came up afterwards with ideas of how a blog might be useful to them or their teams. That's the thing - it's all about having a [**personal** learning environment](http://www.knownet.com/writing/weblogs/Graham_Attwell/entries/6521819364) where you collect together your bunch of trusted information sources and experts, and also have space where you can reflect, have conversations and collaborate. [blip]Berthelemy1-RSSBlogsAndYou946.flv[/blip]

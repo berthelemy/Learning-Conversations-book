@@ -1,0 +1,5 @@
+# Four Seminal Papers {#four-seminal-papers}
+
+_Date posted: 14 June 2006_
+
+This is just for my reference really, but the following links are to four seminal papers that are really guiding my thinking about learning in general, and the resources, systems, environments and cultures that we need to develop in order to support learning: George Siemens whitepaper (for Google) on "Learning in Synch with life": [www.elearnspace.org/Articles/google_whitepaper.pdf](http://www.elearnspace.org/Articles/google_whitepaper.pdf) Graham Attwell's position paper on personal learning environments: [http://www.knownet.com/knownet/writing/weblogs/Graham_Attwell/entries/6521819364](http://www.knownet.com/knownet/writing/weblogs/Graham_Attwell/entries/6521819364) Jay Cross on Informal Learning: [http://internettime.com/wordpress2/?p=551](http://internettime.com/wordpress2/?p=551) Brenda Mergel on "Learning Theory and Instructional Design" [http://www.usask.ca/education/coursework/802papers/mergel/brenda.htm](http://www.usask.ca/education/coursework/802papers/mergel/brenda.htm) At some point I need to pull these together into a Grand Unified Theory...

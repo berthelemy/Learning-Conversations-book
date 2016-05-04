@@ -1,0 +1,13 @@
+# How web video powers global innovation {#how-web-video-powers-global-innovation}
+
+_Date posted: 7 January 2011_
+
+Chris Anderson discusses how learning is changing through the use of web video. Key points:
+
+1.  The size of the crowd watching has a direct impact on the level of innovation exhibited
+2.  By giving away what you think, you fuel the ability to improve those ideas
+3.  Video is driving the evolution of skills - particularly in creative arts - but also in science, politics and education
+
+If you're not using video in your organisation to spread ideas, then you're missing a trick! BTW. The whole talk demonstrates a great use of [Prezi](http://prezi.com/)
+
+**Illegal HTML tag removed :** <param name="movie" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="wmode" value="transparent"><param name="bgColor" value="#ffffff"> <param name="flashvars" value="vu=http://video.ted.com/talks/dynamic/ChrisAnderson_2010G-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/ChrisAnderson-2010G.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=955&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=chris_anderson_how_web_video_powers_global_innovation;year=2010;theme=media_that_matters;theme=what_s_next_in_tech;theme=how_we_learn;theme=the_rise_of_collaboration;theme=bold_predictions_stern_warnings;theme=not_business_as_usual;theme=technology_history_and_destiny;theme=a_taste_of_tedglobal_2010;event=TEDGlobal+2010;&amp;preAdTag=tconf.ted/embed;tile=1;sz=512x288;"><embed src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" pluginspace="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" wmode="transparent" bgcolor="#ffffff" width="446" height="326" allowfullscreen="true" allowscriptaccess="always" flashvars="vu=http://video.ted.com/talks/dynamic/ChrisAnderson_2010G-medium.flv&amp;su=http://images.ted.com/images/ted/tedindex/embed-posters/ChrisAnderson-2010G.embed_thumbnail.jpg&amp;vw=432&amp;vh=240&amp;ap=0&amp;ti=955&amp;introDuration=15330&amp;adDuration=4000&amp;postAdDuration=830&amp;adKeys=talk=chris_anderson_how_web_video_powers_global_innovation;year=2010;theme=media_that_matters;theme=what_s_next_in_tech;theme=how_we_learn;theme=the_rise_of_collaboration;theme=bold_predictions_stern_warnings;theme=not_business_as_usual;theme=technology_history_and_destiny;theme=a_taste_of_tedglobal_2010;event=TEDGlobal+2010;">

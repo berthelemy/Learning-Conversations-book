@@ -1,0 +1,5 @@
+# Explorations in Educational Research Methods {#explorations-in-educational-research-methods}
+
+_Date posted: 2 March 2006_
+
+I'm just about to start a new module in my Masters degree programme. It's all about Research Methods. Initial reactions - is this what I really want to be doing? to be learning about? The whole course is about elearning... why do I want to know about research methods? I suppose it's all about getting ready to write the dissertation next year. So perhaps I need to be thinking in that context. Anyway - I'm going to try to use this blog to keep a record of what I learn. It'll help with writing the assessed reflective journal (which I always struggle to do - mainly because I leave the reflection until it's too late). PS. Apologies to everyone who wants to make a comment on this within my own site (www.berthelemy-family.org.uk/blogs). I've had to switch off comments completely because the spammers were becoming too prolific. If you want to make comments on my postings it's best to go to [http://elgg.net/berthelemy/weblog/](http://elgg.net/berthelemy/weblog/) where a copy of my postings will always appear. Thank you Elgg developers!

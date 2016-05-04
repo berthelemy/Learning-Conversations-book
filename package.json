@@ -1,0 +1,32 @@
+{
+  "name": "learning-conversations-book",
+  "version": "1.0.0",
+  "description": "A collection of thoughts and reflections from over 10 years of blogging",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "gitbook-plugin-callouts": "^0.0.10",
+    "gitbook-plugin-image-captions": "^0.4.0",
+    "gitbook-plugin-collapsible-menu": "^1.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-gh-pages": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berthelemy/Learning-Conversations-book.git"
+  },
+  "keywords": [
+    "learning",
+    "gitbook"
+  ],
+  "author": "Mark Berthelemy",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/berthelemy/Learning-Conversations-book/issues"
+  },
+  "homepage": "https://github.com/berthelemy/Learning-Conversations-book#readme"
+}
