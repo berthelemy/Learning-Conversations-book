@@ -1,9 +1,0 @@
-# Learning Management Systems: The wrong place to start learning {#learning-management-systems-the-wrong-place-to-start-learning}
-
-_Date posted: 24 November 2004_
-
-[http://www.elearnspace.org/Articles/lms.htm](http://www.elearnspace.org/Articles/lms.htm)
-
-This article, by George Siemens, argues effectively for modular systems that keep the learner in control, rather than the current models of LMS systems which are closed and are based around a model of teacher control.
-
-> **What is needed in a Learning Environment?** Any learning environment should: * Have a place for learner expression (blog/portfolio) * Have a place for content interaction (LMS' have this) * Have a place to connect with other learners (discussion forum - LMS' have this) * Have a place to connect the thoughts of other learners in a personal, meaningful way - i.e. using RSS and then brought back into the "learner expression tool" * Have a place to dialogue with the instructor (email, VoIP, etc. - webct has some of this) * Have a place to dialogue with gurus (apprentice) - the heart of online communities is the mess of varying skills and expertise. Gurus are people currently in industry or established practitioners of the organizing theme of the community. LMS limit the interaction to learner and instructor. * Have a place for learning artifacts of those who've gone before - i.e. content management capabilities accessible and managed by the learner. Tools like Furl, del.icio.us are examples of personal knowledge management (PKM) tools. * Be modularized so additional functionality and tools can be added based on what learners want or need...a bricolage of course tools - based on open standards - allow for incorporation of new approaches as needed.

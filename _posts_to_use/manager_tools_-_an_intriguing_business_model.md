@@ -1,7 +1,0 @@
-# Manager Tools - an intriguing business model {#manager-tools-an-intriguing-business-model}
-
-_Date posted: 18 June 2007_
-
-[Manager-tools.com](http://www.manager-tools.com/) is probably the best resource I've found for understanding how to work better with people. Their weekly podcasts provide clear guidelines for specific situations, but within a well thought out management framework that has coaching and feedback at its centre. I don't listen to all of them; just the ones that grab my interest or are particularly relevant at the time. The style is conversational. The content is easy to apply. It suits me (as a regular [Radio 4](http://www.bbc.co.uk/radio4/) - ie. talk radio - listener). It won't suit everyone. The thing that intrigues me is their business model. They give away their key ideas as they apply in generic contexts, but seem to have made a successful business out of working with organisations to apply those ideas in specific situations. As a marketing strategy it's inspired and very brave. The vibrant community of practice that is developing around the Manager-Tools website illustrates the success of those key ideas, without needing case studies full of marketing-speak.
-
-Grow the community = grow the business

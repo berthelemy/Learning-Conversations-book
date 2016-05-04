@@ -1,3 +1,0 @@
-## Next time {#next-time}
-
-In the next installment of this post, we will look at the routes a learner will take to, through and after your intervention - the learner's eye view...

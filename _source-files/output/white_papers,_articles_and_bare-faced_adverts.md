@@ -1,5 +1,0 @@
-# White papers, articles and bare-faced adverts {#white-papers-articles-and-bare-faced-adverts}
-
-_Date posted: 29 November 2013_
-
-OK. I understand that people need to make a living, and to do that they employ marketing techniques to get their particular brand or message across. But... I've just read an article from a recent tradeshow magazine that purported to be a useful resource for people selecting a new system to support learning. Funnily enough, all the "best practices" recommended in the article could be found in the author's company's own product. Over the years, I've come across a few people that I know write useful, balanced and objective white-papers and articles. I've learnt who to trust, and who to just ignore - not because of the individuals concerned, but because of the motives of their employers. In general, look for independence, and where that doesn't exist, read between the lines!

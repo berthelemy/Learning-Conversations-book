@@ -1,9 +1,0 @@
-# Dissertation Survey: your input needed {#dissertation-survey-your-input-needed}
-
-_Date posted: 21 July 2007_
-
-People that have been reading this blog for a while will know that I'm, very slowly, working through a Masters Degree in elearning. In this final year I'm focusing on my Dissertation, in which I'm doing some research to find out "the salient characteristics of those people or organisations whose websites form the hubs within a learning network". By a "learning network" I'm making a big assumption in that it will use RSS as the linking mechanism, with the nodes being the websites that produce and republish or aggregate those feeds. My personal experience has shown these types of global networks to be extremely effective at transmitting and developing ideas. My working premise is that organisations that wish to promote learning on a large scale need to become valuable nodes in these online learning networks. The research is trying to ascertain what makes such nodes valuable and what drives the people & organisations behind these nodes to keep on adding value. The results will be useful to organisations across many sectors that are tasked with promoting and influencing learning & development. The video below gives a brief (2 minute) introduction to what I'm trying to find out. If you watch it, and decide you wish to take part in the research, I would invite you to participate by completing the survey. It should only take about 15 minutes.
-
-<center>[**Take the survey now**](http://capitald.mbdissertation.sgizmo.com/)</center>
-
-[blip]Berthelemy-IntroductionToMarksDissertationSurvey189.flv[/blip]

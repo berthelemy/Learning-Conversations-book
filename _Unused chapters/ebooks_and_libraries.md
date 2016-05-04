@@ -1,5 +1,0 @@
-# Ebooks and libraries {#ebooks-and-libraries}
-
-_Date posted: 29 November 2011_
-
-I've started using [Derbyshire County Council's ebook loan service](http://www.derbyshire.gov.uk/leisure/libraries/ebooks/default.asp) recently. Once you get past the initial setup stage (which really is too convoluted for the general user), it works very well. The only problem is the extremely limited range of books available - particularly non-fiction. Given that digital services are not dependent on location, I can't understand why each local authority needs to run their own ebook library? Why not have a single, national library, part-funded by the local authorities (based on their size) and part-funded by an annual subscription from the users. I don't know how much libraries pay for their books, so can't put any figures on the subscription, but it needs to be less than you'd pay to rent videos! What's stopping this happening, apart from the political will?

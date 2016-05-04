@@ -1,5 +1,0 @@
-# Note about the Android Marketplace {#note-about-the-android-marketplace}
-
-_Date posted: 14 November 2011_
-
-One of the comments I made in [my previous post](http://www.learningconversations.co.uk/main/index.php/2011/11/14/mobile-content-delivery-2?blog=5), was about the Android Marketplace being a mess. I've since had a conversation with a colleague who has far greater experience of Android than I have. It's not that the Marketplace is a mess, it's more a case that it's a true open-market. Anyone can submit applications, and then the rest of the community rates those applications and can flag up ones that are dodgy or malicious. It's a case of buyer beware - either don't download something that hasn't been rated positively by a number of people, or be prepared to do your own testing. Hopefully that clarifies things.

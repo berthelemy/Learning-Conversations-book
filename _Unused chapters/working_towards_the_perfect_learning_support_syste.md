@@ -1,9 +1,0 @@
-# Working towards the perfect learning support system - Jambok {#working-towards-the-perfect-learning-support-system-jambok}
-
-_Date posted: 6 August 2010_
-
-I was shown [Jambok](http://jambok.com/) recently by the guys at [Fusion-Universal](http://www.fusion-universal.com/). Jambok is a system very similar to [Wisetail's Learning Ecosystem](http://www.learningecosystems.com/), in that it handles media in a social way, and is designed to offer corporate clients the chance to build an internal social media platform. The main difference between Jambok and anything else that I've seen, is that it has the recording function (but no editing) built in. Let's say you want to create a quick presentation for your team to get across your message. You can either just record yourself via a webcam, or create your visuals using Powerpoint (or [Prezi](http://prezi.com/) or any other visual creation tool) and record yourself talking through the presentation. This should hopefully remove the incentive to have lots of bullet points! Then you can do all the normal Youtube/Slideshare/social media stuff of tagging, adding descriptions etc. You can see an example of the output below. Three areas that I'd like to check out:
-
-1.  Is it possible to prevent embedded videos showing unless the user is logged into Jambok? This might create headaches for risk & security people.
-2.  Will Jambok ever be able to take the output of Articulate, Captivate, Exe etc and display that? All it would take is the ability to upload a zipped package (not necessarily SCORMed) and Jambok to unzip it and provide a link to the index.html page. Moodle is the only tool that can currently do this.
-3.  Are there plans to incorporate any sort of editing functions?

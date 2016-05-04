@@ -1,5 +1,0 @@
-# Blogs & Social Media Forum {#blogs-social-media-forum}
-
-_Date posted: 28 March 2007_
-
-Last year's forum on Blogs & Social Media was a really good introduction to the concepts, as well as providing some excellent case studies which could be used when debating the ideas. This year's forum has just been announced at: [http://www.socialmediaforum.co.uk/](http://www.socialmediaforum.co.uk/). It's not too expensive as these things go - less than �400 - but worth it. Of course, it's not all about learning. It's a cross-over place between learning, marketing, human resources, internal communications, media, publishing, customer support etc. Seeing all these people in the same place was a fascinating experience. That's the thing about social media - it forces us out of our silos. (BTW. I've got no commercial relationship with any of the organisers of this conference)

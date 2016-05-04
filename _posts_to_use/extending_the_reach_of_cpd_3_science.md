@@ -1,5 +1,0 @@
-# Extending the reach of CPD 3: Science {#extending-the-reach-of-cpd-3-science}
-
-_Date posted: 3 April 2007_
-
-Kate Blacklock, at [Education Excellence](http://www.educationexcellence.co.uk/team.php) has emailed me the link to their new Science blog: "[Told you science wasn't boring](http://science.yourlearningspace.org/)". It illustrates perfectly the sort of thing I've been talking about. It's a place where the science team at Education Excellence can quickly post ideas and examples from their work. It means that their relationship with schools can extend beyond the training room. I like the idea of the team blog for this. It means you can still have a personal blog which you own, but have the team blog owned by the organisation. It also spreads out the effort a bit - you don't need to update it quite so often if there are other people doing it as well. Trouble is, most local authorities don't have curriculum teams like this any more - although perhaps there's a case for leading practitioners or advanced skills teachers within an authority to get together to create a blog for their particular area of expertise?

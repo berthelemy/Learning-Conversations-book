@@ -1,5 +1,0 @@
-# e-Learning 4 empowerment {#e-learning-4-empowerment}
-
-_Date posted: 12 November 2007_
-
-Anamaria Camargo, a fellow student on the [Hull University Masters in elearning](http://www.hull.ac.uk/ces/courses/post-graduate/taught/medelearning/index.html) has started a blog: [e-learning 4 empowerment](http://acamargo.blogspot.com/). She's looking at issues related to Education, e-Learning and the possible contributions that these areas may bring to developing countries like Brazil (her home). The thing that grabbed me in her first post was when she said "developing countries are the ones which especially need e-Learning". I agree - in some ways the developed world's existing infrastructure & history of education is hindering it from adopting new methods and ideas more appropropriate to the 21st Century.

@@ -1,5 +1,0 @@
-# The problem with Web2.0 {#the-problem-with-web2-0}
-
-_Date posted: 17 November 2005_
-
-Don't get me wrong. Web2.0 concepts are great ... Small pieces loosely joined ... But the problem is that all these small pieces need their own username & password combination. So, I've got a [Netvibes](http://www.netvibes.com/) homepage that draws in a set of bookmarks from [Del.icio.us](http://del.icio.us/) that I've tagged specially to appear on the home page, along with a list of the documents I'm writing collaboratively on [Writely](http://www.writely.com/), plus my most recent photos from [Flikr](http://www.flickr.com/photos/markberthelemy/), along with a weather forecast for Derby from [The Weather Channel](http://uk.weather.com/index.html). And I can use that home page on any internet-connected computer. But now that's several more usernames and passwords to remember... That's going to be a real barrier to most non-geeky (see previous post) people.
