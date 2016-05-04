@@ -1,0 +1,5 @@
+# Parkin's Lot:: E-learning grows up {#parkin-s-lot-e-learning-grows-up}
+
+_Date posted: 18 November 2005_
+
+As a follow-up to [Steven Downes paper on elearning 2.0](http://elearnmag.org/subpage.cfm?section=articles&article=29-1), this article by Godfrey Parkin is required reading. http://parkinslot.blogspot.com/2005/11/e-learning-grows-up.html I just wonder how many large organisations, who are wedded to their learning management systems, and formal training programmes, will be ready for this approach to learning. The whole idea of distributed knowledge and networks is a difficult one to grasp. You don't end up with a _product_. Instead you get an ephemeral set of nodes and links that change and grow over time. Which to a "NewMil" person is totally natural, but to many managers is a long way from where they are.

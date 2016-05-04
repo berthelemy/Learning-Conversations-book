@@ -1,0 +1,21 @@
+# Learning to change report {#learning-to-change-report}
+
+_Date posted: 27 January 2011_
+
+I don't normally write directly about the company I work for ([Capita Learning & Development](http://www.capita-ld.co.uk/)). I value my independence too much for that. But, there are times when we put out stuff that's worth talking about. Today's a case in point. We've just published a [research report](http://www.capita-ld.co.uk/news/Pages/SkillsGapThreatensUKRecovery.aspx) (embedded below), based on the opinions of senior decision makers among the UK�s largest 500 firms. Here are some of the findings.
+
+> *   The majority (70%) of business leaders fear that inadequate staff skills are the greatest threat to their ability to capitalise on the recovery.
+> *   More than two thirds of business leaders admit that their under-trained workforce is struggling to cope with expanded job remits following waves of job cuts during recession.
+> *   ... as the economy moves out of the downturn, two fifths (40%) of leaders estimate that at least half of employee skills risk becoming obsolete.
+> *   Over a third of leaders (36%) lack confidence that their employees have the skills required to deliver the firm�s upturn strategy, with close to half (46%) casting doubt on their L&D department�s ability to provide these learning services.
+> *   Over half (55%) claim that their firm is failing to deliver the necessary training for recovery.
+> *   Around half fear for their company�s ability to respond to surges in demand (51%), retrain and redeploy people where required (47%) and identify where current skills are becoming obsolete (49%).
+> *   More than two thirds (67%) of business leaders are concerned their employees are struggling to cope with expanded remits following job cuts.
+> *   More than half (52%) describe their L&D function as slow to respond to the changing requirements of their business during economic turbulence.
+> *   As strategic objectives have evolved, close to half (46%) of senior managers report no significant change in the training delivery to their workforce. Going forward, almost as many (43%) expect no significant change to L&D delivery over the next 2-3 years.
+> *   The vast majority (82%) of leaders lack confidence that their firm�s L&D strategy and delivery are aligned to the company�s operational strategy.
+> *   Half (50%) believe that their L&D function is stuck in a �business as usual� mindset.
+
+You could argue that this data is simply designed to point people towards Capita Learning and Development. That might be partially true. Even so, it's quite clear that L&D in general really isn't hitting the spot where businesses are concerned. Perhaps that might be because we still have the mind-set that "learning" is a commodity that we deliver. We provide training to meet perceived training needs. Every performance problem is seen as solved by a training intervention. Perhaps L&D needs to rebrand - towards performance consulting... Often performance problems are more around culture, systems, processes and communication. Solve those, and you won't need to provide training in a lot of cases. Is there still a place, in today's complex and rapidly changing market, for a learning and development function that just sees itself as a provider of training? [Learning to Change: executive summary](http://www.scribd.com/doc/33948611/Learning-to-Change-executive-summary)
+
+**Illegal HTML tag removed :** <param name="movie" value="http://d1.scribdassets.com/ScribdViewer.swf"> <param name="wmode" value="opaque"> <param name="bgcolor" value="#ffffff"> <param name="allowFullScreen" value="true"> <param name="allowScriptAccess" value="always"> <param name="FlashVars" value="document_id=33948611&amp;access_key=key-1pzzgus5vmiipv2b2lj4&amp;page=1&amp;viewMode=list"> <embed id="doc_133007565211368" name="doc_133007565211368" src="http://d1.scribdassets.com/ScribdViewer.swf?document_id=33948611&amp;access_key=key-1pzzgus5vmiipv2b2lj4&amp;page=1&amp;viewMode=list" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="500" width="100%" wmode="opaque" bgcolor="#ffffff">

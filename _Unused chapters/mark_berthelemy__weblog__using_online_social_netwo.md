@@ -1,0 +1,7 @@
+# Mark Berthelemy :: Weblog :: Using online social networking tools to support teacher professional development {#mark-berthelemy-weblog-using-online-social-networking-tools-to-support-teacher-professional-development}
+
+_Date posted: 9 March 2006_
+
+[http://elgg.cpdconnections.net/berthelemy/weblog/64.html](http://elgg.cpdconnections.net/berthelemy/weblog/64.html)
+
+This is a paper I've written recently as part of a Masters in eLearning. The paper looks at professional development in the content of the UK's DfES National Strategies (a massive CPD programme for teachers). It addresses the issues around the cascade model of professional development, looking at communities of practice as a more suitable model. It then goes on to investigate network theory and how it may be applied using online social networking tools (such as Elgg) to build the social capital necessary for communities of practice to develop and grow. Any comments gratefully received. [Edit: the paper is stored on the [www.cpdconnections.net](http://www.cpdconnections.net/) site - part of a service offered by Capita Learning & Development, my employers. However, it should be stressed that my postings here or there do not necessarily reflect the opinions of Capita Group PLC, nor the National Strategies, and should thus be treated as my personal opinions. CPD Connections is powered by [Elgg](http://elgg.net/) - a social networking environment designed around the needs of learners.]

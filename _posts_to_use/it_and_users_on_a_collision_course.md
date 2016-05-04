@@ -1,0 +1,5 @@
+# IT and users on a collision course? {#it-and-users-on-a-collision-course}
+
+_Date posted: 28 July 2011_
+
+Reading this post from [Huddle](http://www.huddle.com/), on the [death of the traditional enterprise](http://blog.huddle.net/the-death-of-the-traditional-enterprise), made me wonder how much, by moving into the corporate IT world, I've now become part of the problem? I agree totally with them that users' expectations of IT, and particularly the ability to innovate quickly, have increased exponentially - far beyond what IT departments within large organisations can often handle. Already I'm coming across situations where organisations are adamant that they wish to keep their IT departments well away from projects, because they know full well that involvement from IT will result in hugely increased costs, and massively extended timescales. The question is, how to achieve innovation whilst still maintaining robust and secure systems across the board, and with an eye to bringing innovative projects into the mainstream if they're successful? Any tips?

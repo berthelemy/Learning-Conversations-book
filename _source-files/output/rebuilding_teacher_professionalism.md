@@ -1,0 +1,31 @@
+# Rebuilding teacher professionalism {#rebuilding-teacher-professionalism}
+
+_Date posted: 30 December 2010_
+
+In last week's post, I put together a manifesto for education that outlined [ten things that I would do if put in charge of schools](http://www.learningconversations.co.uk/main/index.php/2009/10/25/if-i-was-secretary-of-state-for-educatio?blog=5). I'm now going to start to unpack those a little. As always, I'm open for feedback and discussion - otherwise I'm just thinking in a little bubble of my own!
+
+> 1) Rebuild the professionalism that teachers have given up and had taken from them over the past twenty years - by requiring the [General Teaching Council](http://www.gtce.org.uk/) to adopt continuing professional development regimes similar to other professions, such as [doctors](http://www.gmc-uk.org/education/continuing_professional_development/cpd_guidance.asp), [solicitors](http://www.sra.org.uk/solicitors/cpd.page) and [accountants](http://www.accountancyage.com/accountancyage/features/2040447/cpd-institute-chartered-accountants-england-wales).
+
+Teaching has, historically, been seen as a profession - "a calling requiring specialized knowledge and often long and intensive academic preparation" ([Merriam-Webster dictionary](http://www.merriam-webster.com/dictionary/profession)). [Wikipedia currently (1st Nov 2009) describes some of the characteristics of a profession](http://en.wikipedia.org/wiki/Profession) as:
+
+*   Having knowledge
+*   Being self-regulated
+*   Having autonomy
+*   Having status and prestige
+
+The UK Government reforms of education the 1980's (particularly the [Education Reform Act of 1987](http://www.opsi.gov.uk/acts/acts1988/ukpga_19880040_en_1)) had a "profound effect on the way education is delivered in England" (Leaton Gray 2007). In particular, it resulted in teachers becoming technicians following processes under a strong top-down management system. Rather than reforming the profession to encourage it to raise its own standards, instead the government took control and began to micro-manage teaching, right down to the classroom. This started with the Conservative government of the time, and continued with Tony Blair's Labour government; especially with the introduction of the [National Strategies](http://nationalstrategies.standards.dcsf.gov.uk/). Many other countries (eg. USA and New Zealand) followed similar routes in their education systems, whilst others, such as Finland, went in a totally different direction - that of "teacher empowerment" (Webb 2004). There is now evidence to suggest that the approach taken in the UK and elsewhere has reduced levels of motivation, efficacy, commitment, job satisfaction and effectiveness (Day 2002), and also creativity (Robinson 2006). It could be argued that the reforms were the result of many years during which teachers revelled in their autonomy, but without the self-regulation and ongoing learning required of a true profession. Pockets of excellence across the country did not lead to the wholesale improvements in "standards" (or at least those standards that could be easily measured). This is in contrast to the other professions: doctors, lawyers, accountants etc. These have a long history of self-regulation, the setting of professional standards, and of ongoing professional development. Whilst these three professions all have to work within a government-regulated environment, there is not the level of micro-management that has led to teachers losing their professional identities. I would propose that the [General Teaching Council](http://www.gtce.org.uk/), being the licensing body for teachers, makes reflective, ongoing professional development a requirement of continuing as a licensed teacher. Instead of just being the body that strikes people off for bad practice, it would become the body that promotes good practice. Every teacher should have a professional development record, to be submitted annually in order to maintain their ability to practice as a teacher. Just that one step would make a huge difference. However, it would mean extra work for each teacher. In the current de-professionalised climate, that would not go down well with the unions. And rightly so. It must be matched with other initiatives that are designed to reduce the teacher workload. Looking back at my time as a teacher, and talking with friends and colleagues who still work in schools, there are four main tasks you do as a teacher:
+
+1.  Plan what you're going to do with the children
+2.  Work with children in the classroom
+3.  Assess what the children have done
+4.  Engage with parents and other parties about their children's progress
+
+All are equally important, yet the planning often takes up an inordinate amount of time, simply to comply with government guidance and perceptions of what OFSTED requires. If there was some way to reduce the paperwork, perhaps teachers would be more inclined to focus more on their own professional development. That will be the subject of next week's post.
+
+### Further reading {#further-reading}
+
+Leaton Gray, S (2007) "Teacher as Technician: semi-professionalism after the 1988 Education Reform Act and its effect on conceptions of pupil identity". Available from: http://www.wwwords.co.uk/rss/abstract.asp?j=pfie&aid=2997 Sachs, J. (1999) "Teacher Professional Identity: competing discourses, competing outcomes". Available from: http://www.aare.edu.au/99pap/sac99611.htm Webb, R., Vulliamy, G., Hamalainen, S., Sarja, A., Kimonen, E., Navalainen, R. (2004) "A comparative analysis of primary teacher professionalism in England and Finland. Available from: http://www.jstor.org/pss/4134661 Day, C. (2002) "School reform and transitions in teacher professionalism and identity". International Journal of Educational Research, Volume 37, Issue 8, 2002, Pages 677-692
+
+### Talks {#talks}
+
+Mark Berthelemy (2007) "Online teacher social networking and CPD". Talk to the NAACE conference. Available from: http://www.learningconversations.co.uk/main/index.php/2007/03/08/online_teacher_social_networking_and_cpd Sir Ken Robinson (2006) TED talk on creativity in schools. Available from: http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html

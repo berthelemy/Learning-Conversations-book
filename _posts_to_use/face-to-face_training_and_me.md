@@ -1,0 +1,16 @@
+# Face-to-face training and me {#face-to-face-training-and-me}
+
+_Date posted: 5 November 2008_
+
+A few week's back I attended a course on Account and Customer Relationship Management. As said previously, this was the first formal training course I'd been on for five years. The announcement about the course arrived at a time when I needed some specific input. The objectives matched what I needed. So I signed up. Most of my learning for the past five years has been informal and self-directed. For most of my professional work, I'm at a stage on Jay Cross's graph where that's the most efficient and effective mode of learning. But, with this new role of sales and account management that I'm moving into, I thought that I would be better served by a more formal and structured approach.![Optimise formal and informal learning methods: Jay Cross](./assets/jay_cross_graph.jpg "Optimise formal and informal learning methods: Jay Cross")
+
+Republished by permission of Jay Cross. First published on Jay's [Internettime blog](http://metatime.blogspot.com/2005/04/to-every-thing-turn-turn-turn-there-is.html).
+
+Setting aside time to think and reflect is something I try to do anyway in the course of the day job - that's the beauty of my current work; I can manage my own time. But sometimes you need a kick to make you do that thinking, to make you engage fully with the new ideas. That's where having another person, like a trainer or a fellow trainee, can really help. In a pre-planned face-to-face training session, however, much of what you do is dictated by the trainer, by the contents of the trainer's handbook, and by the needs of the other trainees. That's fine, if all those things are aligned with your own particular training needs. However, in this case the match didn't quite work. There were a few key nuggets which I brought away, but not enough to justify driving 200 miles, spending a night away and being away from the job for a day. Looking back at the stated objectives for the course, it still looks like one that should be useful, but the depth of the content, or its applicability to my own situation was just not quite right. As I design learning solutions for clients, I am tending more and more to an approach that has managers working within a model that emphasises one-to-ones, feedback and coaching ([as promoted by the Manager-Tools team](http://www.manager-tools.com/manager-tools-basics/)). Managers know their teams and their needs far better than any external trainer, and frequent, planned, short coaching sessions can be far more effective than the blunt instrument that is a training course. The role of the learning & development team is to:
+
+*   provide expert resources that managers can use with their teams
+*   provide communication tools that allow communities of practice to develop
+*   support specific interventions that have clearly defined business needs
+*   support and encourage a management culture that has learning at its core
+
+In this particular case, I feel I'd have been better off with a couple of hours of coaching, spread over a few weeks, than this one day splurge of training. Oh, and though I now know what Transactional Analysis is, and even how to analyse transactions, I'm still not entirely sure what the point of it all is... can anyone enlighten me?

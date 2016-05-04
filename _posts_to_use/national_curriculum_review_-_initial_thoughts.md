@@ -1,0 +1,40 @@
+# National Curriculum Review - initial thoughts {#national-curriculum-review-initial-thoughts}
+
+_Date posted: 31 January 2011_
+
+As an educational professional, school governor, policy maker, parent, carer, learner in England the National Curriculum review affects you and the children under your care. If you are an employer in England it also affects you. In fact it's difficult to think of anybody that the outcome of this review does not touch in some way. [Join the debate](http://ncr11.wikispaces.com/Get+Involved)The [UK Department for Education](http://www.education.gov.uk/) [recently announced a wholesale review of the curriculum for schools in England](http://www.education.gov.uk/inthenews/pressnotices/a0073149/national-curriculum-review-launched). According to the announcement the review will:
+
+*   replace the current _substandard_ curriculum with one based on the best school systems in the world, providing a world-class resource for teachers and children
+*   consider what _subjects_ should be compulsory at what age
+*   consider _what children should be taught_ in the main subjects at what age.
+
+(My emphases) I started teaching in 1989, just as the National Curriculum was launched into schools. The legislation underpinning it set the National Curriculum as establishing "an **entitlement** � all children should have access to learning in key areas". ([Oates, T. 2010 "Could do better", Cambridge Assessment](http://www.cambridgeassessment.org.uk/ca/digitalAssets/188853_Could_do_better_FINAL_inc_foreword.pdf)) At the time, particularly in Science (my subject), the curriculum presented was vast, and the requirements to track every child on every Attainment Target was unworkable (although we filled many filing cabinets trying to do so). Eventually there were revisions (after Ron Dearing's report in 1995, and then in the mid-2000's with input from the [QCA](http://curriculum.qcda.gov.uk/index.aspx)) which slimmed things down a lot, and made the structure a lot less rigid than it had been perceived up till then.
+
+### Structure and delivery {#structure-and-delivery}
+
+Following the QCA's revisions, and additional explanatory statements (removed from their website in January 2011), which explicitly emphasised "the importance of removing subject boundaries", organisations, such as the RSA (with their [Opening Minds curriculum](http://www.rsaopeningminds.org.uk/)) reworked things based more around competencies than knowledge - changing the way that the National Curriculum is delivered. Already, over 200 schools in the UK are using their model. In Tim Oate's 2010 paper discussing an evidence-based method of reviewing the National Curriculum ([Could do better: Using international comparisons to refine the National Curriculum in England](http://www.cambridgeassessment.org.uk/ca/Viewpoints/Viewpoint?id=135502), he concludes that, by this statement from the QCA, the National Curriculum began to step into new areas. He says that "the statements began strongly to emphasise very specific approaches to teaching � a degree of specification at odds with both the letter and spirit of legislation". In a way, that's actually quite good news, because he's being explicit that the National Curriculum should say nothing about how schools structure and "deliver" learning experiences for their students. That's great, as long as the forthcoming review report doesn't go on to suggest that schools would be better teaching things in separate subjects...
+
+### Curriculum content {#curriculum-content}
+
+In Tim Oate's view, "a national curriculum should include that which is essential for participation in a modern, democratic society � the fundamentals necessary for progression." He goes on to say:
+
+> Transnational comparisons make clear that high-performing systems ... focus on concepts and principles. �Concepts and principles� include �conservation of mass�, �elasticity�, �metaphor�; within �concepts� we can include understanding of �key operations� such as �working with vectors� in mathematics.
+
+On the role of subject knowledge, there seems to be a rather rapid divergence between the people Tim Oates was talking to ([including a report from the Prince's Teaching Institute Headteacher's conference 2010](http://www.princes-ti.org.uk/WWIS/200910/)), and those educational mavericks (as they might be seen by the first group) who are looking at how the world outside school is now dealing with knowledge. In Tim Oate's view: "Pupils should emerge from schooling with large bodies of knowledge". Whereas many modern educationalists, academics and business people are now of the opinion that we should be focussing more on the skills that enable us to make better use of the knowledge and information that now fills our lives. (eg. the theory of [Connectivism](http://www.connectivism.ca/about.html) which seems to have a lot of acceptance among technologically confident people.)
+
+### Some ideas to think about {#some-ideas-to-think-about}
+
+In my view, there needs to be a balance struck between the two camps, although I'm firmly of the belief that facts are useless without context. In order to prepare our children for a life of work and leisure (that will probably be very different to that which we now experience), I think the National Curriculum should entitle every child to the following... By the time a child leaves formal, state-sponsored education, they should have experienced, **at a minimum**:
+
+1.  Reading, writing, engaging with and discussing, a wide range of writing - both fiction and non-fiction, from across history, genre, physical location and publishing medium (and here you would give a set of non-exclusive examples, but allow teachers to choose).
+2.  Enough mathematics to be allow you to make sensible purchases, carry out practical tasks in the home, understand news reports about economics and business, and critically intrepret statistics.
+3.  Enough science to be able to recognise bad science and to critically question journalism, corporate statements and marketing materials.
+4.  Enough knowledge about current geo-political affairs to be able to understand how history, geography, religion, politics and economics have created current world situations. And more importantly - how to dig deep into current situations to find out out what has led to them.
+5.  Opportunities to develop a practical skill, such as playing an instrument or learning a craft to a recognised standard.
+6.  Opportunities to spend a significant period of time immersed in a second language and culture. (This could, for example, mean learning Polish, Urdu or Punjabi)
+7.  Exploring the languages of creativity and culture, through film, poetry, music, theatre, video, animation etc - the precise area of study depending on the expertise available to the school.
+8.  Working collaboratively with students from another culture.
+
+You'll see I've used rough subject headings - but these are simply to help structure the curriculum entitlement - not to put a strait-jacket around how the curriculum should be delivered. The problem with a National Curriculum is that it will require some form of measurement and standardisation. Yet, when local and individual needs and resources are taken into account, such standardisation is not possible, and is, in my opinion, not desirable. Somehow (and this is where I need to think some more), we need to come up with a way of making what's important measurable instead than making things that are measurable important. That will have to be the subject of another post... I'll finish with a final quote from Tim Oates:
+
+> While the problems are serious and require a policy response, revision of the National Curriculum should not be driven by partial consideration of the problems, and should be based on sophisticated understanding of the functions which a National Curriculum can support. Greater problems will most likely be created by expecting too much of a National Curriculum, or revising it in the wrong way.

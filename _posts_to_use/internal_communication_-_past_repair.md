@@ -1,0 +1,17 @@
+# Internal communication - past repair? {#internal-communication-past-repair}
+
+_Date posted: 2 December 2011_
+
+Our internal communications processes are broken. Email memos sent down from on high very rarely get cascaded to everyone that should see them. The people on the ground don't believe anyone is listening to them. Information on corporate intranets is rarely up-to-date, or relevant. And, with information dotted around our organisations, there is no individual person who has all the current information you need, just when you need it. I would suggest three things have contributed to this breakdown:
+
+1.  Organisations have grown far beyond the point where normal, face-to-face networks can operate effectively. It's not enough now to rely on knowing someone in your team who knows who to talk to. For one thing it's not quick enough, and often the people that you need to talk to will be several contacts removed from you.
+2.  Hierarchical management structures have created stagnant information silos. To remain useful, information needs to be constantly refreshed and be joined up to other information. Hierarchies are designed for top-down command and control, and cannot handle the rapid flow of information that is essential in a rapidly changing business and social environment.
+3.  Our unintelligent use of email has given rise to communication practices that are incredibly inefficient; both in terms of the amount of storage required, and in terms of the time it takes to get things done. Multiple copies of every email and every attachment have to be kept somewhere, often for many years. Every person that is added to an email's distribution list means that yet more storage is required. Many times emails are not sent to all the right people, or are sent to far more people than necessary. So we end up with time being wasted in dealing with messages that don't need a response, or dealing with multiple conversation threads, all ostensibly about the same topic, but sent to different people.
+
+One company, [Atos](http://atos.net/en-us/) (a global IT Services organisation) has attacked this problem head-on. Over the course of the next three years they will be [mandating that employees do not use email for any internal communication](http://www.computerworlduk.com/news/it-business/3260053/atos-origin-abandoning-email/). Instead, they will use a combination of social networking and instant messaging tools (ie. just like our kids do currently). This will solve all three problems above:
+
+1.  Online social networking allows messages to fly around networks extremely rapidly. If you ask a question, your contacts may not know the answer, but will repost it to their contacts etc.
+2.  By connecting people across the hierarchy, information will flow, connect and make new information. It will drive innovation and reduce duplication.
+3.  Each message is only ever stored once. And each message is searchable, and auditable.
+
+Email will never go away. It's valuable to have somewhere that you get notified about new messages. You might even use email to post things into central conversations (just like you can do with [Posterous](http://posterous.com/)). But, as a place where conversations happen, and messages get stored, its days are numbered.

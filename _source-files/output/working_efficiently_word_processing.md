@@ -1,0 +1,17 @@
+# Working efficiently: Word processing {#working-efficiently-word-processing}
+
+_Date posted: 4 August 2010_
+
+Some hints and tips to help save time whenever you are using a word-processor (like [MS Word](http://office.microsoft.com/en-gb/word/) or [OpenOffice](http://www.openoffice.org/)) or a desktop publisher (like Serif's [PagePlus](http://www.serif.com/pageplus/) or Apple's [Pages](http://www.apple.com/iwork/pages/)).
+
+1.  If your document is longer than a single page then use "styles". These are really not hard. But they will save you huge amounts of time in formatting and reformatting. Imagine you have a document with a series of headings and sub-headings. Rather than trying to make each one match up, in terms of font, size, line-spacing etc - just create a style for MainHeading and another for SubHeading. Every time you need to make a heading, type the text and then click on the appropriate style.
+2.  Use the built-in outline Heading and Normal styles (formatted according to your design). Most word-processors have simple key strokes ([examples of Word keyboard shortcuts](http://word.mvps.org/faqs/general/ShortcutsContent.htm#Styles)) that allow you to assign those styles quickly.
+3.  Make rapid changes to your document look & feel by changing the formatting of the styles. This will then automatically change any text tagged with a particular style.
+4.  Use the [Document Map](http://www.shaunakelly.com/word/numbering/documentmap.html) (Word only, I think) to quickly navigate around large documents. It creates a menu from any text tagged with the outline styles of Heading 1, Heading 2, Heading 3 etc
+5.  Never, **ever**, use carriage returns to make spaces between paragraphs. Use the function that adds space above and below paragraphs. Even better if this is used as part of a style, as it will keep your paragraphs consistently spaced automatically.
+6.  Use styles and paragraph formatting to control page breaks automatically where ever possible ([Word example](http://office.microsoft.com/en-gb/word-help/insert-a-page-break-HA010031062.aspx)). If you put in a manual page break, you will only find yourself having to remove it later if you edit the document.
+7.  If you find yourself using the same styles and document structure over and over again, save a bare-bones copy of the document as a [template](http://wordprocessing.about.com/od/usingtemplatesandaddins/l/blwordtemp.htm).
+8.  Try to avoid manually adding any repeated formatting to text or to paragraphs that may appear more than once (eg. an italic emphasis to certain words) - unless you can guarantee that you will never want to change that formatting. It's far easier to create a style. That way you can easily change every piece of text with that style.
+9.  If you find yourself trying to lay out images and frames on a page, consider using a Desk Top Publisher application instead.
+
+For more information see this guide on [using styles in word-processing](http://www.wikihow.com/Use-Styles-in-Word-Processing). Basically - if you are going to use a Word-processor to do anything more than the odd letter to the bank, you **must** learn how to use styles. If there was one thing that I would insist on including in any school ICT curriculum, it would be styles. It then leads into thinking about content reuse, the benefits of ICT, web-design, database design and normalisation and so on.

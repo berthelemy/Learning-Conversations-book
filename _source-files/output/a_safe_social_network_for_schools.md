@@ -1,0 +1,5 @@
+# A safe social network for schools {#a-safe-social-network-for-schools}
+
+_Date posted: 11 October 2007_
+
+I've just come across Learning Landscape for Schools - which states it's a safe social network. They do seem to have covered all the bases around security & internet safety; their registration procedures are quite rigorous. The site is based on the open-source [Elgg](http://elgg.net/) software - as used by [University of Brighton](http://community.brighton.ac.uk/) and [Rucku](http://rucku.com/) (a virtual clubhouse for Rugby players)... Elgg has a robust [development & support company](http://curverider.co.uk/) behind it, so it's a good choice. [![](./assets/ll4s_icon.jpg) alt="The Learning Landscape for Schools Logo" border="0" title="The Learning Landscape for Schools - a safe social network site" />](http://www.ll4schools.co.uk/)

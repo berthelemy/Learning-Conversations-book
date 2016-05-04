@@ -1,0 +1,5 @@
+# What's the impact of L&D? {#what-s-the-impact-of-l-d}
+
+_Date posted: 24 March 2012_
+
+At the #elnevent yesterday, one of the key points that kept coming out was the need for L&D departments to be able to articulate their value proposition. ie. L&D people need to be able to communicate what value they are offering to their organisations. At it's simplest, they must be able to explain to senior stakeholders what the impact would be if L&D stopped working... For most functional departments this is quite easy. It's easy to imagine the impact if IT, Sales, or even HR stopped doing their work. But L&D is a bit less definable. Perhaps that's because the impact on the organisation is not immediately visible? Think about the impact L&D has had on you. In my case, it's very little. If I need to learn something, I'll learn it. Now, think about what would happen if the L&D department shut up shop and said no more courses. What would be the short, medium and long term effects to your organisation? What real value are you offering to solve real problems?

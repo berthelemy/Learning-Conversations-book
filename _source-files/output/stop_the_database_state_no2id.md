@@ -1,0 +1,5 @@
+# Stop the database state @no2id {#stop-the-database-state-no2id}
+
+_Date posted: 23 February 2010_
+
+[![](./assets/circle_1.gif) alt="NO2ID � Stop ID cards and the database state" style="width:125;height:125px;"/>](http://www.no2id.net/)I spend my life working with databases of one sort or other. They are wonderful things; helping organise information and increase the usefulness and value of that information. Yet, regardless of how useful they can be, I cannot see that this outweighs the security, privacy and cost concerns raised by the UK government's ongoing plans to store citizen's personal details on a central National Identity Management System. In fact, I can see very little this **is** useful in these plans. There is no evidence that they will combat terrorism, illegal immigration, benefit fraud or identity fraud. That's why I've put the [No2ID](http://www.no2id.net/) badge on this site. Can I suggest you take a look at their site and do the same. And, if you get a visit from election candidates this year, then ask them where they stand.

@@ -1,0 +1,5 @@
+# Departmental roles in the Learning Organisation {#departmental-roles-in-the-learning-organisation}
+
+_Date posted: 6 June 2008_
+
+Where does learning sit in your organisation?![Learning Organisation](./assets/learning_organisations.png "Learning Organisation")Image created using [Gliffy](http://www.gliffy.com/)Is it part of the Human Resources (HR) function? Is it part of Internal Communications? Is it part of Knowledge Management (KM)? What input should each of these departments have to Learning? What input should Learning have to these departments? When should something be led by Internal Communications and when by Learning? How does KM fit into Learning? Is an Organisational Development strategy something that is led by Learning or supported by? There are good arguments for all of these. What's your experience?

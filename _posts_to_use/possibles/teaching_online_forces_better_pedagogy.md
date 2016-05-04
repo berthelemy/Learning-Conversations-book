@@ -1,0 +1,9 @@
+# Teaching online forces better pedagogy {#teaching-online-forces-better-pedagogy}
+
+_Date posted: 16 September 2009_
+
+Michael Feldstein, in responding to a comment on his [review of a Sakai book](http://mfeldstein.com/review-sakai-courseware-management/), made a statement that I wish I could agree with wholeheartedly:
+
+> Teaching online is completely different. There is no stage. You have no captive audience. You have no ability to lean on your physical presence and stagecraft as a teacher. What you do have is the wide world that the student is immersed in, and the student�s imagination and initiative. So that�s what you use. One of the reasons that I love working in this field is that _it forces teachers to try better pedagogical practices that they then often bring back to the physical classroom_.
+
+From my experiences both in HE (as a post-graduate student) and in corporate learning (as a learning technology specialist), I can say categorically that the last phrase (in italics) just isn't true. There's nothing that can _force_ a teacher, tutor or materials designer to try better pedagogical practices. You'd hope that their professional pride would lead them down that route, but the pressures of time and money, as well as a lack of understanding of pedagogy often dictate otherwise. So, often, you end up with far worse experiences online than happen in a classroom. What I do agree with totally is that teaching online is completely different. Perhaps we should just accept that and not expect good classroom trainers/teachers to be good online trainers/teachers, and vice versa?
