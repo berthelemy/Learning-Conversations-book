@@ -1,5 +1,5 @@
 {
-    "plugins": ["callouts","image-captions"],
+    "plugins": ["callouts","image-captions","collapsible-menu"],
     "pluginsConfig":
     {
         "callouts":
