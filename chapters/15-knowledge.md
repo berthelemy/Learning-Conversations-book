@@ -1,2 +1,0 @@
-# Comments on knowledge management
-

@@ -1,36 +1,4 @@
-# Comments on online learning
-
-## An hour of elearning? {#an-hour-of-elearning}
-
-_Date posted: 7 June 2010_
-
-Often, when I'm asked to cost up elearning design and development, the concept of an "hour of instruction" comes up. It's a term I've never been comfortable with. You'd never ask a writer to create an hour's worth of reading. You'd give them a word limit instead. Time measurements are only suitable for passive media, like radio or television, or (in our world) screencasts, podcasts and presentations. When you're asking people to actively engage with your medium, or to dip in and out, then time becomes irrelevant. What could we use instead? It's a tricky one, because good elearning is actually a combination of many different media elements:
-
-*   Video, audio, animations - measured in minutes and seconds
-*   Text - measured in words
-*   Graphics and images - measured by the number required
-*   Interactions, simulations, games and menus - measured by the number of touch points or branching points
-*   Moderation & support, such as forums, social networks, email - measured by the number of staff and the time they're expected to be monitoring & contributing to
-
-Don't ever hire an elearning designer who wants to get paid by the word count - the end result will be awful. Perhaps we ought to consider an inverse relationship: the price increases as the word count goes down? See also: [Time to develop one hour of training](http://www.astd.org/LC/2009/0809_kapp.htm) (from ASTD's Learning Circuits magazine)
-
-## A 21st Century LMS conceptual model {#a-21st-century-lms-conceptual-model}
-
-_Date posted: 4 February 2011_
-
-Early stages yet, but I'm working on a conceptual model for the 21st Century LMS. The diagram below shows the high-level view. There's a lot of detail that sits underneath it, which I'm not able to publish yet. Any comments very gratefully welcomed...
-
-[![21st Century LMS Conceptual Model](assets/new_lms_conceptual_model.png)](assets/new_lms_conceptual_model.png)
-
-## Arguing for consistent LMS platform APIs {#arguing-for-consistent-lms-platform-apis}
-
-_Date posted: 28 February 2011_
-
-> �If your only tool is a hammer, then every problem starts to look like a nail.� [Maslow](http://www.brainyquote.com/quotes/quotes/a/abrahammas126079.html)
-
-L&D Departments need a toolkit that can support a wider range of learning activities than most L&D departments are currently concerned with. Some of these tools may not be owned by L&D, but by internal comms, or even IT. But L&D will need to be aware of them, and have access to them. It might be possible to work on a small-pieces, loosely-joined approach, like that advocated by [David Weinberger](http://www.smallpieces.com/). That's a great approach for maximum flexibility and speed to change. But it doesn't make the best use of the masses of data that will accumulate in these systems, unless, like the consumer-focussed platforms (Facebook, Twitter, Amazon, Ebay etc) you provide well-documented [APIs](http://en.wikipedia.org/wiki/Application_programming_interface) to allow communication between the tools. That data could then be mined to enable organisations to target support more effectively (the Facebook approach). If you knew what people were searching about and discussing, you could understand what the training needs were in your organisation. It could also be exposed to users to enable them to make more informed choices (the Amazon approach). By collecting data about collective behaviour, you can make recommendations to individuals. To achieve this, perhaps [IMS Global](http://www.imsglobal.org/) needs to start looking at wider scenarios than just formal training/learning, and begin to develop a set of simple APIs that vendors can sign up to for data transmission via web-services? That's a big ask. I know how long it takes to get agreement on anything like this... Of course, an alternative would be for the major players in the LMS and social learning market to get together and agree (**and publish!**) APIs that anyone can then adopt. That feels more feasible... See also: [The changing face of learning & development](http://www.learningconversations.co.uk/main/index.php/2011/02/23/the-changing-face-of-learning?blog=5)
-
-## Characteristics of good elearning {#characteristics-of-good-elearning}
+# Characteristics of good elearning {#characteristics-of-good-elearning}
 
 _Date posted: 13 November 2012_
 
