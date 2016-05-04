@@ -1,4 +1,4 @@
 book.epub
 book.pdf
-_book
-node_modules
+_book/
+node_modules/
