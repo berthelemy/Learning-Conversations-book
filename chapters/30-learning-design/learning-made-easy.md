@@ -1,0 +1,7 @@
+## Learning made easy? {#learning-made-easy}
+
+_Date posted: 11 June 2011_
+
+A while back I received a T-shirt as part of a promotion for a new IT training service. It's not a bad T-shirt at all; quite comfortable and easy to wear. But wearing it in public makes me feel rather uneasy, as the words on it run counter to what I believe is true:
+
+It's just that learning - that process through which connections are made in the brain - isn't easy... It takes concentration, dedication, and, often, mistakes, over a period of time. If something is easy to learn, then that should raise questions about the value of that thing. I'm going on a course next week. The first for a long time. It's on the [PRINCE2� project management methodology](http://www.ogc.gov.uk/methods_prince_2.asp). Given what I've read of the pre-work, this is going to be a hard week. There's a lot to get my head around, to apply to my current practice, and to remember for an exam on Friday. But that's a good thing. It means that the Practitioner certificate I'm hoping to gain will mean something. It will have value. Similarly, the expectation is that what I learn on the course will add value to the work I do. If I was told that learning PRINCE2� methodologies was easy, then why would I go on a five day course? I'd look it up and muddle through (as I have done up to now!) But, because I want an in-depth understanding, so I can use PRINCE2� properly and appropriately, I'm going to make an effort. Learning isn't easy. Not for the learner.

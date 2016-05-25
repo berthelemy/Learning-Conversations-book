@@ -444,150 +444,112 @@
 	"buffers":
 	[
 		{
+			"file": "chapters/25-social-networks/README.md",
+			"settings":
+			{
+				"buffer_size": 17,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapters/70-software/README.md",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapters/35-publishing/README.md",
+			"settings":
+			{
+				"buffer_size": 12,
+				"line_ending": "Unix",
+				"name": "# Publishing"
+			}
+		},
+		{
+			"contents": "# Social networks\n",
 			"file": "chapters/25-social-networks.md",
+			"file_size": 18,
+			"file_write_time": 1463987686000000,
 			"settings":
 			{
-				"buffer_size": 30445,
+				"buffer_size": 18,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "chapters/80-society.md",
-			"settings":
-			{
-				"buffer_size": 7407,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/10-internet.md",
-			"settings":
-			{
-				"buffer_size": 6443,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/70-software.md",
-			"settings":
-			{
-				"buffer_size": 26872,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/02-online-learning.md",
-			"settings":
-			{
-				"buffer_size": 33049,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/02-online-learning/characteristics-of-good-elearning.md",
-			"settings":
-			{
-				"buffer_size": 6851,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/02-online-learning/the-king-is-dead.md",
-			"settings":
-			{
-				"buffer_size": 1484,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/02-online-learning/we-want-to-buy-a-learning-module.md",
-			"settings":
-			{
-				"buffer_size": 3706,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/30-learning-design.md",
-			"settings":
-			{
-				"buffer_size": 55207,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 37,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "SUMMARY.md",
-			"settings":
-			{
-				"buffer_size": 1487,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/20-org-ld.md",
-			"settings":
-			{
-				"buffer_size": 27486,
-				"line_ending": "Unix",
-				"name": "# Organisational learning &amp; development"
-			}
-		},
-		{
-			"file": "chapters/90-education.md",
-			"settings":
-			{
-				"buffer_size": 35695,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "chapters/75-tools.md",
-			"settings":
-			{
-				"buffer_size": 20185,
-				"line_ending": "Unix",
-				"name": "# Tools"
-			}
-		},
-		{
-			"file": "chapters/85-project-management.md",
-			"settings":
-			{
-				"buffer_size": 11418,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "styles/pdf.css",
-			"settings":
-			{
-				"buffer_size": 31,
-				"line_ending": "Unix",
-				"name": "h1 {page-break-before: always;}"
-			}
-		},
-		{
-			"file": "chapters/02-online-learning/README.md",
+			"file": "chapters/30-learning-design/README.md",
 			"settings":
 			{
 				"buffer_size": 17,
 				"line_ending": "Unix",
-				"name": "README"
+				"name": "# Learning design"
 			}
 		},
 		{
-			"file": "book.json",
+			"file": "chapters/75-tools/README.md",
 			"settings":
 			{
-				"buffer_size": 307,
+				"buffer_size": 7,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapters/80-society/README.md",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Unix",
+				"name": "# Society"
+			}
+		},
+		{
+			"contents": "# Society",
+			"file": "chapters/80-society.md",
+			"file_size": 9,
+			"file_write_time": 1463989984000000,
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapters/85-project-management/README.md",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Unix",
+				"name": "# Project management"
+			}
+		},
+		{
+			"file": "chapters/90-education/README.md",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Unix",
+				"name": "# Education"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# elearnspace. Connectivism: A Learning Theory for the Digital Age {#elearnspace-connectivism-a-learning-theory-for-the-digital-age}\n\n_Date posted: 18 December 2004_\n\n[http://www.elearnspace.org/Articles/connectivism.htm](http://www.elearnspace.org/Articles/connectivism.htm)\n\nThis paper discusses the impact and indeed, the need, for networks (not technology; people) to support learning in today's knowledge economy.\n\n> The starting point of connectivism is the individual. Personal knowledge is comprised of a network, which feeds into organizations and institutions, which in turn feed back into the network, and then continue to provide learning to individual. This cycle of knowledge development (personal to network to organization) allows learners to remain current in their field through the connections they have formed.",
+			"file": "_posts_to_use/elearnspace_connectivism_a_learning_theory_for_the.md",
+			"file_size": 830,
+			"file_write_time": 1461673953000000,
+			"settings":
+			{
+				"buffer_size": 830,
 				"line_ending": "Unix"
 			}
 		}
@@ -664,11 +626,38 @@
 	},
 	"file_history":
 	[
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/90-education.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/85-project-management.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/75-tools.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/40-conferences/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design/learning-made-easy.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/30-learning-design/designing-a-large-scale-learning-programme.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/70-software/to-open-source-or-not.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/styles/pdf.css",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/we-want-to-buy-a-learning-module.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/the-king-is-dead.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/25-social-networks.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/SUMMARY.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/20-org-ld.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/20-org-ld/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/80-society.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/70-software.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/characteristics-of-good-elearning.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/book.json",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/package.json.bak",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/package.json",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/Gruntfile.js",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/.gitignore",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/10-internet/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/15-knowledge/README.md",
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/10-internet.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/05-me-as-learner.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/05-me-as-a-learner/README.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning/Collaborative-Learning.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/what_sort_of_professional_am_i.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/85-project-management.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/book.pdf",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/40-conferences.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/collaborative_learning_elearning_is_not_epublishin.md",
@@ -676,8 +665,6 @@
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/click_here_for_usability_advice.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/choosing_and_using_social_software.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/choosing_proprietary_over_open_source.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/SUMMARY.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/chapters/02-online-learning.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_book/_posts_to_use/come_on_in,_the_waters_lovely.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_book/_posts_to_use/commercial_publishing_in_a_networked_world.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_book/_posts_to_use/computing_and_ict_in_schools.md",
@@ -766,32 +753,7 @@
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/dreams_of_an_alternative_education_curriculum.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/elearning_learning.md",
 		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/elevator_pitch_-_expanded.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/face-to-face_training_and_me.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/from_formal_courses_to_social_learning.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/games_based_learning_-_just_for_kids.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/ideas_for_an_unconference_process.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/internal_communication_-_learning_from_the_web.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/is_your_home_network_safe.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/it_toolkit_for_a_learning_organisation.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/learning_&_development_and_internal_communications.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/lt12uk_conference_presentation_engaging_the_unwill.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/meme_random_things.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/mobile_content_delivery_2.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/moodle_running_on_an_asus_eeepc.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/more_bang_for_your_buck.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/network_publishing.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/new_learning_models.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/organisational_learning_today_-_concept_map.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/planning_for_scale.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/rbcs_and_classroom_practice.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/reflections_on_the_oxford_teachmeet_fishbowl.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/rss,_blogs_and_other_stuff_in_corporate_learning_a.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/system_rollouts_and_effective_networked_communicat.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/the_art_of_user_support.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/the_demise_of_global_conversation.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/the_state_of_corporate_learning_and_development.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/twitter_explorations.md",
-		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/what_did_the_romans_ict_do_for_us.md"
+		"/Users/markberthelemy/Documents/Code/Learning Conversations book/_posts_to_use/face-to-face_training_and_me.md"
 	],
 	"find":
 	{
@@ -799,7 +761,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
 			"/Users/markberthelemy/Documents/Code/Learning Conversations book",
@@ -1007,433 +969,11 @@
 	"groups":
 	[
 		{
-			"selected": 17,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "chapters/25-social-networks.md",
-					"settings":
-					{
-						"buffer_size": 30445,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9005,
-								9005
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2073.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chapters/80-society.md",
-					"settings":
-					{
-						"buffer_size": 7407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2336,
-								2336
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 680.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "chapters/10-internet.md",
-					"settings":
-					{
-						"buffer_size": 6443,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6443,
-								6443
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2191.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "chapters/70-software.md",
-					"settings":
-					{
-						"buffer_size": 26872,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13,
-								13
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "chapters/02-online-learning.md",
-					"settings":
-					{
-						"buffer_size": 33049,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33049,
-								33049
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 14651.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "chapters/02-online-learning/characteristics-of-good-elearning.md",
-					"settings":
-					{
-						"buffer_size": 6851,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5147,
-								5147
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2065.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "chapters/02-online-learning/the-king-is-dead.md",
-					"settings":
-					{
-						"buffer_size": 1484,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1484,
-								1484
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "chapters/02-online-learning/we-want-to-buy-a-learning-module.md",
-					"settings":
-					{
-						"buffer_size": 3706,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3706,
-								3706
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 751.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "chapters/30-learning-design.md",
-					"settings":
-					{
-						"buffer_size": 55207,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								36341,
-								36341
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 16503.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": ".gitignore",
-					"settings":
-					{
-						"buffer_size": 37,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								37,
-								37
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "SUMMARY.md",
-					"settings":
-					{
-						"buffer_size": 1487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								176,
-								176
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "chapters/20-org-ld.md",
-					"settings":
-					{
-						"buffer_size": 27486,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								23039,
-								23039
-							]
-						],
-						"settings":
-						{
-							"auto_name": "# Organisational learning &amp; development",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 10551.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "chapters/90-education.md",
-					"settings":
-					{
-						"buffer_size": 35695,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27,
-								27
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "chapters/75-tools.md",
-					"settings":
-					{
-						"buffer_size": 20185,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7964,
-								7964
-							]
-						],
-						"settings":
-						{
-							"auto_name": "# Tools",
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 2867.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "chapters/85-project-management.md",
-					"settings":
-					{
-						"buffer_size": 11418,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2209,
-								2209
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 874.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 15,
-					"file": "styles/pdf.css",
-					"settings":
-					{
-						"buffer_size": 31,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2,
-								2
-							]
-						],
-						"settings":
-						{
-							"auto_name": "h1 {page-break-before: always;}",
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 16,
-					"file": "chapters/02-online-learning/README.md",
+					"file": "chapters/25-social-networks/README.md",
 					"settings":
 					{
 						"buffer_size": 17,
@@ -1449,7 +989,6 @@
 						],
 						"settings":
 						{
-							"auto_name": "README",
 							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -1459,26 +998,289 @@
 					"type": "text"
 				},
 				{
-					"buffer": 17,
-					"file": "book.json",
+					"buffer": 1,
+					"file": "chapters/70-software/README.md",
 					"settings":
 					{
-						"buffer_size": 307,
+						"buffer_size": 10,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								46,
-								46
+								10,
+								10
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chapters/35-publishing/README.md",
+					"settings":
+					{
+						"buffer_size": 12,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Publishing",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chapters/25-social-networks.md",
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "chapters/30-learning-design/README.md",
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Learning design",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "chapters/75-tools/README.md",
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "chapters/80-society/README.md",
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Society",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "chapters/80-society.md",
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "chapters/85-project-management/README.md",
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Project management",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "chapters/90-education/README.md",
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Education",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "_posts_to_use/elearnspace_connectivism_a_learning_theory_for_the.md",
+					"settings":
+					{
+						"buffer_size": 830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1539,11 +1341,15 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"/Users/markberthelemy/Documents/Code/wyver-solutions/wyvers-solutions.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"show_minimap": true,
 	"show_open_files": false,

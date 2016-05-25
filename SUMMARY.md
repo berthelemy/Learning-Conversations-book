@@ -14,6 +14,13 @@
     - [We want to buy a learning module](chapters/02-online-learning/we_want_to_buy_a_learning_module.md)
     - [What should elearning look like?](chapters/02-online-learning/what_should_elearning_look_like.md)
 * [Comments on Education](education/README.md)
+* [Me as a learner](chapters/05-me-as-a-learner/README.md)
+    - [Changes in the last ten years](chapters/05-me-as-a-learner/changes_in_the_last_ten_years.md)
+    - [Command &amp; control vs learning anarchy](chapters/05-me-as-a-learner/command_&_control_vs_learning_anarchy.md)
+    - [How to create your circle of the wise](chapters/05-me-as-a-learner/cool_cat_teacher_blog_how_to_create_your_circle_of.md)
+    - [Web 2.0 and your own learning &amp; development](chapters/05-me-as-a-learner/web_20_and_your_own_learning_&_development.md)
+    - [What do you do at work, daddy](chapters/05-me-as-a-learner/what_do_you_do_at_work,_daddy.md)
+chapters/05-me-as-a-learner/what_sort_of_professional_am_i.md
 * [Software](software/README.md)
 * [On social networks](chapters/25-social-networks.md)
 * [Comments on knowledge management](knowledge-management/README.md)
