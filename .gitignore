@@ -2,3 +2,4 @@ book.epub
 book.pdf
 _book/
 node_modules/
+.grunt/
