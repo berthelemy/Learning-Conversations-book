@@ -1,19 +1,30 @@
 # Learning Conversations
 
-Early experiences with Skype, Google Maps & RSS Readers
+This book is a curated selection of posts made during the 12 years of working out loud on my Learning Conversations blog.
 
-Resources, tools and learning materials that have gone the way of the dodo.
+In working through the many hundreds of posts, I have come across some that show just how naive I was at the time, some that reminded me of how much things have changed, and many that got me thinking again.
 
-I am the Managing Director of a learning and technology consultancy ([Wyver Solutions Ltd](http://www.wyversolutions.co.uk/)) (based in Belper, Derbyshire, UK). Specialising in:
+It's this last set that I've republished here.
 
-*   Learning technologies such as content management systems, learning management systems, content authoring tools, collaboration tools
-*   Helping senior management understand the potential of such tools
-*   Understanding the human factors involved in the successful implementation of new IT systems
-*   Providing configuration services, training and support
-*   Acting as the interface between IT, Management and the Learning & Development team
+They cover a wide range of topics - reflecting my professional and personal interests over the years. Early on, the focus was on education, schools and teacher professional development. That morphed into social networks and learning design. And the latter stages tend to be about organisational change, IT and project management.
 
-I am passionate about putting the learner, the user at the centre of what we do. This blog is where I put personal thoughts and ideas - often about, but not exclusively, learning technology. For more finished articles, providing advice and guidance, go to the Wyver Solutions blog. [![View Mark Berthelemy's profile on LinkedIn](./assets/btn_profile_bluetxt_80x15.gif)](http://www.linkedin.com/in/markberthelemy)
+In places, I have supplemented the original post with additional comments to show where my thinking is now, but, mostly, the posts remain unedited - except where links or media no longer exist.
 
-### Disclaimer {#disclaimer}
+## Learn Appeal
 
-The contents of this website do not necessarily reflect the opinions of any organisation with which I am associated.
+Any profits from sales of the ebook or print versions of this book will go towards Learn Appeal; a charity which aims to help provide the best of sustainable learning technology to people in the developing world.
+
+## About the author
+
+Mark Berthelemy is the Managing Director of [Wyver Solutions Ltd](http://www.wyversolutions.co.uk/), a learning and technology consultancy based in Belper, Derbyshire, UK.
+
+During his varied career, he has:
+
+- Taught in schools across the UK, from ages 5-18
+- Worked as a Pastoral Assistant in a church in London
+- Co-led a team of online mentors in a ground-breaking, national teacher professional development project
+- Led the implementation of one of the first Software As A Service products in the school's market
+- Worked on the winning team for Capita's bid to manage the UK Gas workers' register
+- Led the technical design of the learning systems needed for a number of national, government sponsored projects - such as the UK's Civil Service Learning, NHS Leadership Academy and Census 2011
+- Designed one of the first large-scale xAPI (Tin Can API) implementations
+- Spoken at many leading industry events and workshops

@@ -1,6 +1,8 @@
 # Summary
 
 * [Preface](README.md)
+* [Personal reflections on learning](chapters/02-personal-reflections-on-learning/README.md)
+    - [Changes in the last ten years](chapters/02-personal-reflections-on-learning/changes_in_the_last_ten_years.md)
 * [Comments on online learning](chapters/02-online-learning/README.md)
     - [The king is dead](chapters/02-online-learning/the_king_is_dead__long_live_the_king.md)
     - [An hour of elearning](chapters/02-online-learning/an_hour_of_elearning.md)
